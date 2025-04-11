@@ -1,4 +1,4 @@
-**Captions with Intention**
+# **Captions with Intention**
 
 Legendas Detalhadas em JSON para Automação no AE
 
