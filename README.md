@@ -16,23 +16,6 @@ Os arquivos JSON contêm transcrições precisas, temporização exata por palav
 *   **Anotações Estruturadas (`dia`, `sfx`, `mus`):** Cada bloco de legenda (item `subs`) contém *apenas uma* dessas chaves, permitindo que os scripts diferenciem facilmente os tipos de conteúdo e apliquem estilos ou presets de animação específicos.
 *   **Transcrição Completa (`txt`):** A chave `txt` dentro de cada bloco `dia`, `sfx` ou `mus` fornece o texto completo do bloco. O `wds[].w` fornece o texto da palavra individual.
 
-## Fluxo de Trabalho no After Effects & Potencial de Automação
-
-Os dados granulares em JSON são projetados para uso programático dentro do After Effects:
-
-1.  **Análise (Parsing):** Carregue e analise o arquivo JSON usando `JSON.parse()` do ExtendScript ou métodos similares em outros ambientes de script.
-2.  **Iteração:** Percorra o array `tr.subs`. Para cada bloco de legenda:
-    *   Identifique o tipo (`dia`, `sfx`, `mus`).
-    *   Percorra o array `wds` para obter detalhes a nível de palavra.
-3.  **Automação:** Use os dados para controlar propriedades do AE:
-    *   **Temporização:** Defina os pontos de Entrada/Saída (In/Out) da camada com precisão usando os frames `in`/`out` do bloco. Anime revelações de texto ou propriedades usando os frames `in`/`out` das palavras.
-    *   **Conteúdo de Texto:** Crie/atualize Camadas de Texto (Text Layers) usando `txt` ou `wds[].w`.
-    *   **Estilização:** Aplique cores às camadas de texto com base no `sid` (usando a propriedade `fillColor`). Aplique diferentes estilos de texto ou estilos de camada com base no tipo `dia`/`sfx`/`mus`.
-    *   **Animação:** Vincule propriedades de animação (ex: `scale`, `opacity`, parâmetros de efeitos via Expressões ou keyframes) ao valor `int` para visuais dinâmicos e orientados por dados.
-    *   **Posicionamento/Layout:** Automatize o layout das linhas de legenda com base no comprimento do `txt` ou na temporização das palavras.
-
-**Exemplos de Casos de Uso:** Tipografia cinética sincronizada com a fala, legendas com cores por personagem, visualizações de dados da intensidade do diálogo, lower thirds automatizados, geração de descrições animadas de SFX/música.
-
 ## Exemplo da Estrutura JSON
 
 ```json
