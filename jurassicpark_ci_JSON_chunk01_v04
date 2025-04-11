@@ -1,0 +1,3663 @@
+{
+  "tr": {
+    "meta": {
+      "fps": 23.976,
+      "lang": "en",
+      "qual": "High",
+      "char_colors": {
+        "#E51717": "Robert Muldoon",
+        "#A0A0A0": "Jophery",
+        "#B0B0B0": "Worker 1",
+        "#C0C0C0": "Worker 2 (Spanish)",
+        "#D0D0D0": "Worker 3 (Spanish)",
+        "#E0E0E0": "Worker 4 (Spanish)",
+        "#E85C2E": "Donald Gennaro",
+        "#EBC247": "Juanito Rostagno",
+        "#909090": "Miner (Spanish)",
+        "#FFB482": "Alan Grant",
+        "#8CD17D": "Ellie Sattler",
+        "#95A5A6": "Dig Site Volunteer/Man",
+        "#BDC3C7": "Dig Site Volunteer/Woman",
+        "#ECF0F1": "Boy (Volunteer Kid)",
+        "#FAD791": "John Hammond",
+        "#F5F5F5": "UNKNOWN/BACKGROUND VOICE"
+      }
+    },
+    "subs": [
+      {
+        "in": 2,
+        "out": 100,
+        "mus": {
+          "txt": "[Dramatic Music]",
+          "wds": [
+            {
+              "w": "[Dramatic",
+              "in": 2,
+              "out": 60,
+              "int": 7
+            },
+            {
+              "w": "Music]",
+              "in": 61,
+              "out": 100,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 101,
+        "out": 606,
+        "sfx": {
+          "txt": "[Helicopter Whirring]",
+          "wds": [
+            {
+              "w": "[Helicopter",
+              "in": 101,
+              "out": 300,
+              "int": 6
+            },
+            {
+              "w": "Whirring]",
+              "in": 301,
+              "out": 606,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 2055,
+        "out": 2089,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Everybody, heads up!",
+          "wds": [
+            {
+              "w": "Everybody,",
+              "in": 2055,
+              "out": 2072,
+              "int": 7
+            },
+            {
+              "w": "heads",
+              "in": 2073,
+              "out": 2080,
+              "int": 7
+            },
+            {
+              "w": "up!",
+              "in": 2081,
+              "out": 2089,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 2090,
+        "out": 2144,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Keep it clear, now. Keep it clear!",
+          "wds": [
+            {
+              "w": "Keep",
+              "in": 2090,
+              "out": 2105,
+              "int": 7
+            },
+            {
+              "w": "it",
+              "in": 2106,
+              "out": 2111,
+              "int": 7
+            },
+            {
+              "w": "clear,",
+              "in": 2112,
+              "out": 2121,
+              "int": 7
+            },
+            {
+              "w": "now.",
+              "in": 2122,
+              "out": 2123,
+              "int": 7
+            },
+            {
+              "w": "Keep",
+              "in": 2124,
+              "out": 2133,
+              "int": 8
+            },
+            {
+              "w": "it",
+              "in": 2134,
+              "out": 2136,
+              "int": 8
+            },
+            {
+              "w": "clear!",
+              "in": 2137,
+              "out": 2144,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 2174,
+        "out": 2238,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Stand back!",
+          "wds": [
+            {
+              "w": "Stand",
+              "in": 2174,
+              "out": 2206,
+              "int": 7
+            },
+            {
+              "w": "back!",
+              "in": 2207,
+              "out": 2238,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 2280,
+        "out": 2345,
+        "sfx": {
+          "txt": "[Machinery Whirring and Clanking]",
+          "wds": [
+            {
+              "w": "[Machinery",
+              "in": 2280,
+              "out": 2301,
+              "int": 6
+            },
+            {
+              "w": "Whirring",
+              "in": 2302,
+              "out": 2317,
+              "int": 6
+            },
+            {
+              "w": "and",
+              "in": 2318,
+              "out": 2325,
+              "int": 6
+            },
+            {
+              "w": "Clanking]",
+              "in": 2326,
+              "out": 2345,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 2312,
+        "out": 2357,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Bring it forward, come on!",
+          "wds": [
+            {
+              "w": "Bring",
+              "in": 2312,
+              "out": 2323,
+              "int": 7
+            },
+            {
+              "w": "it",
+              "in": 2324,
+              "out": 2329,
+              "int": 7
+            },
+            {
+              "w": "forward,",
+              "in": 2330,
+              "out": 2351,
+              "int": 7
+            },
+            {
+              "w": "come",
+              "in": 2352,
+              "out": 2353,
+              "int": 7
+            },
+            {
+              "w": "on!",
+              "in": 2354,
+              "out": 2357,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 2358,
+        "out": 2505,
+        "dia": {
+          "sid": "#C0C0C0",
+          "cty": "bg02",
+          "txt": "[speaks Spanish]",
+          "wds": [
+            {
+              "w": "[speaks",
+              "in": 2358,
+              "out": 2431,
+              "int": 6
+            },
+            {
+              "w": "Spanish]",
+              "in": 2432,
+              "out": 2505,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 2460,
+        "out": 2498,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Slow it down!",
+          "wds": [
+            {
+              "w": "Slow",
+              "in": 2460,
+              "out": 2479,
+              "int": 7
+            },
+            {
+              "w": "it",
+              "in": 2480,
+              "out": 2485,
+              "int": 7
+            },
+            {
+              "w": "down!",
+              "in": 2486,
+              "out": 2498,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 2506,
+        "out": 2575,
+        "dia": {
+          "sid": "#D0D0D0",
+          "cty": "bg03",
+          "txt": "[speaks Spanish]",
+          "wds": [
+            {
+              "w": "[speaks",
+              "in": 2506,
+              "out": 2540,
+              "int": 6
+            },
+            {
+              "w": "Spanish]",
+              "in": 2541,
+              "out": 2575,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 2605,
+        "out": 2733,
+        "sfx": {
+          "txt": "[Creature Purring and Snarling]",
+          "wds": [
+            {
+              "w": "[Creature",
+              "in": 2605,
+              "out": 2660,
+              "int": 5
+            },
+            {
+              "w": "Purring",
+              "in": 2661,
+              "out": 2700,
+              "int": 4
+            },
+            {
+              "w": "and",
+              "in": 2701,
+              "out": 2710,
+              "int": 5
+            },
+            {
+              "w": "Snarling]",
+              "in": 2711,
+              "out": 2733,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 2787,
+        "out": 2840,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Pushing team, move in there.",
+          "wds": [
+            {
+              "w": "Pushing",
+              "in": 2787,
+              "out": 2811,
+              "int": 7
+            },
+            {
+              "w": "team,",
+              "in": 2812,
+              "out": 2832,
+              "int": 7
+            },
+            {
+              "w": "move",
+              "in": 2833,
+              "out": 2837,
+              "int": 7
+            },
+            {
+              "w": "in",
+              "in": 2838,
+              "out": 2839,
+              "int": 7
+            },
+            {
+              "w": "there.",
+              "in": 2840,
+              "out": 2840,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 2841,
+        "out": 2889,
+        "dia": {
+          "sid": "#E0E0E0",
+          "cty": "bg04",
+          "txt": "Move in.",
+          "wds": [
+            {
+              "w": "Move",
+              "in": 2841,
+              "out": 2867,
+              "int": 7
+            },
+            {
+              "w": "in.",
+              "in": 2868,
+              "out": 2889,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 2890,
+        "out": 2951,
+        "dia": {
+          "sid": "#E0E0E0",
+          "cty": "bg04",
+          "txt": "[speaks Spanish]",
+          "wds": [
+            {
+              "w": "[speaks",
+              "in": 2890,
+              "out": 2920,
+              "int": 6
+            },
+            {
+              "w": "Spanish]",
+              "in": 2921,
+              "out": 2951,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 2952,
+        "out": 3009,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "On your ready. I want Tasers on full charge.",
+          "wds": [
+            {
+              "w": "On",
+              "in": 2952,
+              "out": 2957,
+              "int": 7
+            },
+            {
+              "w": "your",
+              "in": 2958,
+              "out": 2968,
+              "int": 7
+            },
+            {
+              "w": "ready.",
+              "in": 2969,
+              "out": 2974,
+              "int": 7
+            },
+            {
+              "w": "I",
+              "in": 2975,
+              "out": 2981,
+              "int": 8
+            },
+            {
+              "w": "want",
+              "in": 2982,
+              "out": 2995,
+              "int": 8
+            },
+            {
+              "w": "Tasers",
+              "in": 2996,
+              "out": 3003,
+              "int": 8
+            },
+            {
+              "w": "on",
+              "in": 3004,
+              "out": 3004,
+              "int": 8
+            },
+            {
+              "w": "full",
+              "in": 3005,
+              "out": 3008,
+              "int": 8
+            },
+            {
+              "w": "charge.",
+              "in": 3009,
+              "out": 3009,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 3010,
+        "out": 3066,
+        "sfx": {
+          "txt": "[Creature Roaring]",
+          "wds": [
+            {
+              "w": "[Creature",
+              "in": 3010,
+              "out": 3038,
+              "int": 9
+            },
+            {
+              "w": "Roaring]",
+              "in": 3039,
+              "out": 3066,
+              "int": 10
+            }
+          ]
+        }
+      },
+      {
+        "in": 3069,
+        "out": 3086,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Steady!",
+          "wds": [
+            {
+              "w": "Steady!",
+              "in": 3069,
+              "out": 3086,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 3087,
+        "out": 3125,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Go on. Step back in.",
+          "wds": [
+            {
+              "w": "Go",
+              "in": 3087,
+              "out": 3091,
+              "int": 7
+            },
+            {
+              "w": "on.",
+              "in": 3092,
+              "out": 3101,
+              "int": 7
+            },
+            {
+              "w": "Step",
+              "in": 3102,
+              "out": 3117,
+              "int": 7
+            },
+            {
+              "w": "back",
+              "in": 3118,
+              "out": 3123,
+              "int": 7
+            },
+            {
+              "w": "in.",
+              "in": 3124,
+              "out": 3125,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 3126,
+        "out": 3141,
+        "dia": {
+          "sid": "#E0E0E0",
+          "cty": "bg04",
+          "txt": "[speaks Spanish]",
+          "wds": [
+            {
+              "w": "[speaks",
+              "in": 3126,
+              "out": 3133,
+              "int": 6
+            },
+            {
+              "w": "Spanish]",
+              "in": 3134,
+              "out": 3141,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 3142,
+        "out": 3176,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Ready. Move it.",
+          "wds": [
+            {
+              "w": "Ready.",
+              "in": 3142,
+              "out": 3167,
+              "int": 7
+            },
+            {
+              "w": "Move",
+              "in": 3168,
+              "out": 3172,
+              "int": 7
+            },
+            {
+              "w": "it.",
+              "in": 3173,
+              "out": 3176,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 3177,
+        "out": 3248,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "And push.",
+          "wds": [
+            {
+              "w": "And",
+              "in": 3177,
+              "out": 3215,
+              "int": 7
+            },
+            {
+              "w": "push.",
+              "in": 3216,
+              "out": 3248,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 3249,
+        "out": 3376,
+        "sfx": {
+          "txt": "[Machinery Clanking, Electronic Beep]",
+          "wds": [
+            {
+              "w": "[Machinery",
+              "in": 3249,
+              "out": 3290,
+              "int": 6
+            },
+            {
+              "w": "Clanking,",
+              "in": 3291,
+              "out": 3330,
+              "int": 7
+            },
+            {
+              "w": "Electronic",
+              "in": 3331,
+              "out": 3360,
+              "int": 6
+            },
+            {
+              "w": "Beep]",
+              "in": 3361,
+              "out": 3376,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 3377,
+        "out": 3437,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Locked. Loading team, step away.",
+          "wds": [
+            {
+              "w": "Locked.",
+              "in": 3377,
+              "out": 3409,
+              "int": 7
+            },
+            {
+              "w": "Loading",
+              "in": 3410,
+              "out": 3415,
+              "int": 7
+            },
+            {
+              "w": "team,",
+              "in": 3416,
+              "out": 3428,
+              "int": 7
+            },
+            {
+              "w": "step",
+              "in": 3429,
+              "out": 3434,
+              "int": 7
+            },
+            {
+              "w": "away.",
+              "in": 3435,
+              "out": 3437,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 3438,
+        "out": 3461,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Move it.",
+          "wds": [
+            {
+              "w": "Move",
+              "in": 3438,
+              "out": 3446,
+              "int": 7
+            },
+            {
+              "w": "it.",
+              "in": 3447,
+              "out": 3461,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 3462,
+        "out": 3584,
+        "sfx": {
+          "txt": "[Creature Snarling]",
+          "wds": [
+            {
+              "w": "[Creature",
+              "in": 3462,
+              "out": 3523,
+              "int": 7
+            },
+            {
+              "w": "Snarling]",
+              "in": 3524,
+              "out": 3584,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 3585,
+        "out": 3656,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Jophery, raise the gate.",
+          "wds": [
+            {
+              "w": "Jophery,",
+              "in": 3585,
+              "out": 3618,
+              "int": 7
+            },
+            {
+              "w": "raise",
+              "in": 3619,
+              "out": 3642,
+              "int": 7
+            },
+            {
+              "w": "the",
+              "in": 3643,
+              "out": 3648,
+              "int": 7
+            },
+            {
+              "w": "gate.",
+              "in": 3649,
+              "out": 3656,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 3657,
+        "out": 4006,
+        "sfx": {
+          "txt": "[Gate Creaking, Creature Roaring and Thrashing]",
+          "wds": [
+            {
+              "w": "[Gate",
+              "in": 3657,
+              "out": 3750,
+              "int": 6
+            },
+            {
+              "w": "Creaking,",
+              "in": 3751,
+              "out": 3850,
+              "int": 6
+            },
+            {
+              "w": "Creature",
+              "in": 3851,
+              "out": 3890,
+              "int": 9
+            },
+            {
+              "w": "Roaring",
+              "in": 3891,
+              "out": 3950,
+              "int": 10
+            },
+            {
+              "w": "and",
+              "in": 3951,
+              "out": 3960,
+              "int": 10
+            },
+            {
+              "w": "Thrashing]",
+              "in": 3961,
+              "out": 4006,
+              "int": 11
+            }
+          ]
+        }
+      },
+      {
+        "in": 4007,
+        "out": 4016,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Block the opening!",
+          "wds": [
+            {
+              "w": "Block",
+              "in": 4007,
+              "out": 4011,
+              "int": 9
+            },
+            {
+              "w": "the",
+              "in": 4012,
+              "out": 4012,
+              "int": 9
+            },
+            {
+              "w": "opening!",
+              "in": 4013,
+              "out": 4016,
+              "int": 9
+            }
+          ]
+        }
+      },
+      {
+        "in": 4017,
+        "out": 4077,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Don't let her get out!",
+          "wds": [
+            {
+              "w": "Don't",
+              "in": 4017,
+              "out": 4042,
+              "int": 9
+            },
+            {
+              "w": "let",
+              "in": 4043,
+              "out": 4049,
+              "int": 9
+            },
+            {
+              "w": "her",
+              "in": 4050,
+              "out": 4054,
+              "int": 9
+            },
+            {
+              "w": "get",
+              "in": 4055,
+              "out": 4065,
+              "int": 9
+            },
+            {
+              "w": "out!",
+              "in": 4066,
+              "out": 4077,
+              "int": 9
+            }
+          ]
+        }
+      },
+      {
+        "in": 4078,
+        "out": 4231,
+        "sfx": {
+          "txt": "[Screaming, Creature Roaring, Lasers Firing]",
+          "wds": [
+            {
+              "w": "[Screaming,",
+              "in": 4078,
+              "out": 4120,
+              "int": 10
+            },
+            {
+              "w": "Creature",
+              "in": 4121,
+              "out": 4160,
+              "int": 10
+            },
+            {
+              "w": "Roaring,",
+              "in": 4161,
+              "out": 4190,
+              "int": 11
+            },
+            {
+              "w": "Lasers",
+              "in": 4191,
+              "out": 4215,
+              "int": 8
+            },
+            {
+              "w": "Firing]",
+              "in": 4216,
+              "out": 4231,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 4232,
+        "out": 4274,
+        "dia": {
+          "sid": "#F5F5F5",
+          "cty": "bgXX",
+          "txt": "Somebody help him!",
+          "wds": [
+            {
+              "w": "Somebody",
+              "in": 4232,
+              "out": 4250,
+              "int": 9
+            },
+            {
+              "w": "help",
+              "in": 4251,
+              "out": 4262,
+              "int": 9
+            },
+            {
+              "w": "him!",
+              "in": 4263,
+              "out": 4274,
+              "int": 9
+            }
+          ]
+        }
+      },
+      {
+        "in": 4275,
+        "out": 4361,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Work her back!",
+          "wds": [
+            {
+              "w": "Work",
+              "in": 4275,
+              "out": 4327,
+              "int": 9
+            },
+            {
+              "w": "her",
+              "in": 4328,
+              "out": 4333,
+              "int": 9
+            },
+            {
+              "w": "back!",
+              "in": 4334,
+              "out": 4361,
+              "int": 9
+            }
+          ]
+        }
+      },
+      {
+        "in": 4362,
+        "out": 4532,
+        "sfx": {
+          "txt": "[Screaming, Roaring, Lasers Firing Continues]",
+          "wds": [
+            {
+              "w": "[Screaming,",
+              "in": 4362,
+              "out": 4400,
+              "int": 10
+            },
+            {
+              "w": "Roaring,",
+              "in": 4401,
+              "out": 4450,
+              "int": 11
+            },
+            {
+              "w": "Lasers",
+              "in": 4451,
+              "out": 4480,
+              "int": 9
+            },
+            {
+              "w": "Firing",
+              "in": 4481,
+              "out": 4510,
+              "int": 9
+            },
+            {
+              "w": "Continues]",
+              "in": 4511,
+              "out": 4532,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 4533,
+        "out": 4569,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Shoot her!",
+          "wds": [
+            {
+              "w": "Shoot",
+              "in": 4533,
+              "out": 4558,
+              "int": 10
+            },
+            {
+              "w": "her!",
+              "in": 4559,
+              "out": 4569,
+              "int": 10
+            }
+          ]
+        }
+      },
+      {
+        "in": 4570,
+        "out": 4697,
+        "sfx": {
+          "txt": "[Gunfire, Creature Screeches]",
+          "wds": [
+            {
+              "w": "[Gunfire,",
+              "in": 4570,
+              "out": 4620,
+              "int": 9
+            },
+            {
+              "w": "Creature",
+              "in": 4621,
+              "out": 4660,
+              "int": 10
+            },
+            {
+              "w": "Screeches]",
+              "in": 4661,
+              "out": 4697,
+              "int": 11
+            }
+          ]
+        }
+      },
+      {
+        "in": 4698,
+        "out": 5676,
+        "mus": {
+          "txt": "[Ominous Music]",
+          "wds": [
+            {
+              "w": "[Ominous",
+              "in": 4698,
+              "out": 5187,
+              "int": 4
+            },
+            {
+              "w": "Music]",
+              "in": 5188,
+              "out": 5676,
+              "int": 4
+            }
+          ]
+        }
+      },
+      {
+        "in": 5687,
+        "out": 5774,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side04",
+          "txt": "I heard that Hammond's not even here.",
+          "wds": [
+            {
+              "w": "I",
+              "in": 5687,
+              "out": 5699,
+              "int": 5
+            },
+            {
+              "w": "heard",
+              "in": 5700,
+              "out": 5717,
+              "int": 5
+            },
+            {
+              "w": "that",
+              "in": 5718,
+              "out": 5727,
+              "int": 5
+            },
+            {
+              "w": "Hammond's",
+              "in": 5728,
+              "out": 5741,
+              "int": 5
+            },
+            {
+              "w": "not",
+              "in": 5742,
+              "out": 5753,
+              "int": 5
+            },
+            {
+              "w": "even",
+              "in": 5754,
+              "out": 5768,
+              "int": 5
+            },
+            {
+              "w": "here.",
+              "in": 5769,
+              "out": 5774,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 5775,
+        "out": 5803,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side04",
+          "txt": "He sends his apologies.",
+          "wds": [
+            {
+              "w": "He",
+              "in": 5775,
+              "out": 5785,
+              "int": 5
+            },
+            {
+              "w": "sends",
+              "in": 5786,
+              "out": 5790,
+              "int": 5
+            },
+            {
+              "w": "his",
+              "in": 5791,
+              "out": 5794,
+              "int": 5
+            },
+            {
+              "w": "apologies.",
+              "in": 5795,
+              "out": 5803,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 5804,
+        "out": 5847,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side03",
+          "txt": "There's a $20 million lawsuit by the family of that worker and you're telling me that Hammond can't see me?",
+          "wds": [
+            {
+              "w": "There's",
+              "in": 5804,
+              "out": 5811,
+              "int": 7
+            },
+            {
+              "w": "a",
+              "in": 5812,
+              "out": 5814,
+              "int": 7
+            },
+            {
+              "w": "$20",
+              "in": 5815,
+              "out": 5833,
+              "int": 7
+            },
+            {
+              "w": "million",
+              "in": 5834,
+              "out": 5847,
+              "int": 7
+            },
+            {
+              "w": "lawsuit",
+              "in": 5848,
+              "out": 5887,
+              "int": 7
+            },
+            {
+              "w": "by",
+              "in": 5888,
+              "out": 5892,
+              "int": 7
+            },
+            {
+              "w": "the",
+              "in": 5893,
+              "out": 5897,
+              "int": 7
+            },
+            {
+              "w": "family",
+              "in": 5898,
+              "out": 5917,
+              "int": 7
+            },
+            {
+              "w": "of",
+              "in": 5918,
+              "out": 5920,
+              "int": 7
+            },
+            {
+              "w": "that",
+              "in": 5921,
+              "out": 5929,
+              "int": 7
+            },
+            {
+              "w": "worker",
+              "in": 5930,
+              "out": 5948,
+              "int": 7
+            },
+            {
+              "w": "and",
+              "in": 5949,
+              "out": 5953,
+              "int": 7
+            },
+            {
+              "w": "you're",
+              "in": 5954,
+              "out": 5961,
+              "int": 7
+            },
+            {
+              "w": "telling",
+              "in": 5962,
+              "out": 5976,
+              "int": 7
+            },
+            {
+              "w": "me",
+              "in": 5977,
+              "out": 5982,
+              "int": 7
+            },
+            {
+              "w": "that",
+              "in": 5983,
+              "out": 5990,
+              "int": 7
+            },
+            {
+              "w": "Hammond",
+              "in": 5991,
+              "out": 6004,
+              "int": 7
+            },
+            {
+              "w": "can't",
+              "in": 6005,
+              "out": 6013,
+              "int": 7
+            },
+            {
+              "w": "see",
+              "in": 6014,
+              "out": 6033,
+              "int": 7
+            },
+            {
+              "w": "me?",
+              "in": 6034,
+              "out": 6039,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 6040,
+        "out": 6094,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side04",
+          "txt": "He had to leave early, his daughter's getting a divorce.",
+          "wds": [
+            {
+              "w": "He",
+              "in": 6040,
+              "out": 6049,
+              "int": 6
+            },
+            {
+              "w": "had",
+              "in": 6050,
+              "out": 6056,
+              "int": 6
+            },
+            {
+              "w": "to",
+              "in": 6057,
+              "out": 6062,
+              "int": 6
+            },
+            {
+              "w": "leave",
+              "in": 6063,
+              "out": 6070,
+              "int": 6
+            },
+            {
+              "w": "early,",
+              "in": 6071,
+              "out": 6085,
+              "int": 6
+            },
+            {
+              "w": "his",
+              "in": 6086,
+              "out": 6094,
+              "int": 6
+            },
+            {
+              "w": "daughter's",
+              "in": 6095,
+              "out": 6118,
+              "int": 6
+            },
+            {
+              "w": "getting",
+              "in": 6119,
+              "out": 6132,
+              "int": 6
+            },
+            {
+              "w": "a",
+              "in": 6133,
+              "out": 6133,
+              "int": 6
+            },
+            {
+              "w": "divorce.",
+              "in": 6134,
+              "out": 6157,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 6158,
+        "out": 6182,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side03",
+          "txt": "I understand, but we need to deal with the situation now.",
+          "wds": [
+            {
+              "w": "I",
+              "in": 6158,
+              "out": 6166,
+              "int": 6
+            },
+            {
+              "w": "understand,",
+              "in": 6167,
+              "out": 6200,
+              "int": 6
+            },
+            {
+              "w": "but",
+              "in": 6201,
+              "out": 6208,
+              "int": 6
+            },
+            {
+              "w": "we",
+              "in": 6209,
+              "out": 6219,
+              "int": 6
+            },
+            {
+              "w": "need",
+              "in": 6220,
+              "out": 6228,
+              "int": 6
+            },
+            {
+              "w": "to",
+              "in": 6229,
+              "out": 6235,
+              "int": 6
+            },
+            {
+              "w": "deal",
+              "in": 6236,
+              "out": 6248,
+              "int": 6
+            },
+            {
+              "w": "with",
+              "in": 6249,
+              "out": 6254,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 6255,
+              "out": 6259,
+              "int": 6
+            },
+            {
+              "w": "situation",
+              "in": 6260,
+              "out": 6297,
+              "int": 6
+            },
+            {
+              "w": "now.",
+              "in": 6298,
+              "out": 6312,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 6313,
+        "out": 6370,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side03",
+          "txt": "The insurance company...",
+          "wds": [
+            {
+              "w": "The",
+              "in": 6313,
+              "out": 6319,
+              "int": 6
+            },
+            {
+              "w": "insurance",
+              "in": 6320,
+              "out": 6349,
+              "int": 6
+            },
+            {
+              "w": "company...",
+              "in": 6350,
+              "out": 6370,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 6371,
+        "out": 6399,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side04",
+          "txt": "You okay?",
+          "wds": [
+            {
+              "w": "You",
+              "in": 6371,
+              "out": 6385,
+              "int": 5
+            },
+            {
+              "w": "okay?",
+              "in": 6386,
+              "out": 6399,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 6400,
+        "out": 6418,
+        "sfx": {
+          "txt": "[Gennaro Grunts]",
+          "wds": [
+            {
+              "w": "[Gennaro",
+              "in": 6400,
+              "out": 6409,
+              "int": 4
+            },
+            {
+              "w": "Grunts]",
+              "in": 6410,
+              "out": 6418,
+              "int": 4
+            }
+          ]
+        }
+      },
+      {
+        "in": 6419,
+        "out": 6620,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side03",
+          "txt": "The underwriters feel that the accident's raised safety questions about the park. That makes the investors very anxious.",
+          "wds": [
+            {
+              "w": "The",
+              "in": 6419,
+              "out": 6466,
+              "int": 6
+            },
+            {
+              "w": "underwriters",
+              "in": 6467,
+              "out": 6499,
+              "int": 6
+            },
+            {
+              "w": "feel",
+              "in": 6500,
+              "out": 6518,
+              "int": 6
+            },
+            {
+              "w": "that",
+              "in": 6519,
+              "out": 6532,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 6533,
+              "out": 6540,
+              "int": 6
+            },
+            {
+              "w": "accident's",
+              "in": 6541,
+              "out": 6572,
+              "int": 6
+            },
+            {
+              "w": "raised",
+              "in": 6573,
+              "out": 6586,
+              "int": 6
+            },
+            {
+              "w": "safety",
+              "in": 6587,
+              "out": 6612,
+              "int": 6
+            },
+            {
+              "w": "questions",
+              "in": 6613,
+              "out": 6620,
+              "int": 6
+            },
+            {
+              "w": "about",
+              "in": 6621,
+              "out": 6645,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 6646,
+              "out": 6653,
+              "int": 6
+            },
+            {
+              "w": "park.",
+              "in": 6654,
+              "out": 6686,
+              "int": 6
+            },
+            {
+              "w": "That",
+              "in": 6687,
+              "out": 6729,
+              "int": 6
+            },
+            {
+              "w": "makes",
+              "in": 6730,
+              "out": 6756,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 6757,
+              "out": 6764,
+              "int": 6
+            },
+            {
+              "w": "investors",
+              "in": 6765,
+              "out": 6809,
+              "int": 6
+            },
+            {
+              "w": "very",
+              "in": 6810,
+              "out": 6830,
+              "int": 6
+            },
+            {
+              "w": "anxious.",
+              "in": 6831,
+              "out": 6881,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 6882,
+        "out": 6964,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side03",
+          "txt": "I had to promise to conduct a very thorough, on-site inspection.",
+          "wds": [
+            {
+              "w": "I",
+              "in": 6882,
+              "out": 6904,
+              "int": 6
+            },
+            {
+              "w": "had",
+              "in": 6905,
+              "out": 6908,
+              "int": 6
+            },
+            {
+              "w": "to",
+              "in": 6909,
+              "out": 6918,
+              "int": 6
+            },
+            {
+              "w": "promise",
+              "in": 6919,
+              "out": 6937,
+              "int": 6
+            },
+            {
+              "w": "to",
+              "in": 6938,
+              "out": 6942,
+              "int": 6
+            },
+            {
+              "w": "conduct",
+              "in": 6943,
+              "out": 6964,
+              "int": 6
+            },
+            {
+              "w": "a",
+              "in": 6965,
+              "out": 6978,
+              "int": 6
+            },
+            {
+              "w": "very",
+              "in": 6979,
+              "out": 7000,
+              "int": 6
+            },
+            {
+              "w": "thorough,",
+              "in": 7001,
+              "out": 7034,
+              "int": 6
+            },
+            {
+              "w": "on-site",
+              "in": 7035,
+              "out": 7064,
+              "int": 6
+            },
+            {
+              "w": "inspection.",
+              "in": 7065,
+              "out": 7107,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 7108,
+        "out": 7180,
+        "sfx": {
+          "txt": "[Donkey Braying]",
+          "wds": [
+            {
+              "w": "[Donkey",
+              "in": 7108,
+              "out": 7144,
+              "int": 4
+            },
+            {
+              "w": "Braying]",
+              "in": 7145,
+              "out": 7180,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 7181,
+        "out": 7248,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side04",
+          "txt": "Hammond hates inspections. They slow everything down.",
+          "wds": [
+            {
+              "w": "Hammond",
+              "in": 7181,
+              "out": 7211,
+              "int": 5
+            },
+            {
+              "w": "hates",
+              "in": 7212,
+              "out": 7226,
+              "int": 5
+            },
+            {
+              "w": "inspections.",
+              "in": 7227,
+              "out": 7248,
+              "int": 5
+            },
+            {
+              "w": "They",
+              "in": 7249,
+              "out": 7282,
+              "int": 5
+            },
+            {
+              "w": "slow",
+              "in": 7283,
+              "out": 7296,
+              "int": 5
+            },
+            {
+              "w": "everything",
+              "in": 7297,
+              "out": 7326,
+              "int": 5
+            },
+            {
+              "w": "down.",
+              "in": 7327,
+              "out": 7344,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 7345,
+        "out": 7384,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side03",
+          "txt": "I need to or they'll pull the funding.",
+          "wds": [
+            {
+              "w": "I",
+              "in": 7345,
+              "out": 7358,
+              "int": 6
+            },
+            {
+              "w": "need",
+              "in": 7359,
+              "out": 7364,
+              "int": 6
+            },
+            {
+              "w": "to",
+              "in": 7365,
+              "out": 7384,
+              "int": 6
+            },
+            {
+              "w": "or",
+              "in": 7385,
+              "out": 7397,
+              "int": 6
+            },
+            {
+              "w": "they'll",
+              "in": 7398,
+              "out": 7407,
+              "int": 6
+            },
+            {
+              "w": "pull",
+              "in": 7408,
+              "out": 7427,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 7428,
+              "out": 7433,
+              "int": 6
+            },
+            {
+              "w": "funding.",
+              "in": 7434,
+              "out": 7470,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 7471,
+        "out": 7524,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side03",
+          "txt": "That'll slow him down even more.",
+          "wds": [
+            {
+              "w": "That'll",
+              "in": 7471,
+              "out": 7488,
+              "int": 6
+            },
+            {
+              "w": "slow",
+              "in": 7489,
+              "out": 7500,
+              "int": 6
+            },
+            {
+              "w": "him",
+              "in": 7501,
+              "out": 7506,
+              "int": 6
+            },
+            {
+              "w": "down",
+              "in": 7507,
+              "out": 7524,
+              "int": 6
+            },
+            {
+              "w": "even",
+              "in": 7525,
+              "out": 7540,
+              "int": 6
+            },
+            {
+              "w": "more.",
+              "in": 7541,
+              "out": 7564,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 7565,
+        "out": 7696,
+        "sfx": {
+          "txt": "[Miner Speaking Spanish, Gennaro Grunts]",
+          "wds": [
+            {
+              "w": "[Miner",
+              "in": 7565,
+              "out": 7590,
+              "int": 5
+            },
+            {
+              "w": "Speaking",
+              "in": 7591,
+              "out": 7620,
+              "int": 5
+            },
+            {
+              "w": "Spanish,",
+              "in": 7621,
+              "out": 7660,
+              "int": 5
+            },
+            {
+              "w": "Gennaro",
+              "in": 7661,
+              "out": 7685,
+              "int": 4
+            },
+            {
+              "w": "Grunts]",
+              "in": 7686,
+              "out": 7696,
+              "int": 4
+            }
+          ]
+        }
+      },
+      {
+        "in": 7697,
+        "out": 7749,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side04",
+          "txt": "Watch your head.",
+          "wds": [
+            {
+              "w": "Watch",
+              "in": 7697,
+              "out": 7722,
+              "int": 5
+            },
+            {
+              "w": "your",
+              "in": 7723,
+              "out": 7728,
+              "int": 5
+            },
+            {
+              "w": "head.",
+              "in": 7729,
+              "out": 7749,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 7750,
+        "out": 8132,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side03",
+          "txt": "If two experts sign off on the island, the insurance guys will back off. I've already got Ian Malcolm, but they think he's too trendy. They want Alan Grant.",
+          "wds": [
+            {
+              "w": "If",
+              "in": 7750,
+              "out": 7788,
+              "int": 6
+            },
+            {
+              "w": "two",
+              "in": 7789,
+              "out": 7802,
+              "int": 6
+            },
+            {
+              "w": "experts",
+              "in": 7803,
+              "out": 7840,
+              "int": 6
+            },
+            {
+              "w": "sign",
+              "in": 7841,
+              "out": 7869,
+              "int": 6
+            },
+            {
+              "w": "off",
+              "in": 7870,
+              "out": 7878,
+              "int": 6
+            },
+            {
+              "w": "on",
+              "in": 7879,
+              "out": 7891,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 7892,
+              "out": 7898,
+              "int": 6
+            },
+            {
+              "w": "island,",
+              "in": 7899,
+              "out": 7939,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 7940,
+              "out": 7975,
+              "int": 6
+            },
+            {
+              "w": "insurance",
+              "in": 7976,
+              "out": 8005,
+              "int": 6
+            },
+            {
+              "w": "guys",
+              "in": 8006,
+              "out": 8020,
+              "int": 6
+            },
+            {
+              "w": "will",
+              "in": 8021,
+              "out": 8030,
+              "int": 6
+            },
+            {
+              "w": "back",
+              "in": 8031,
+              "out": 8048,
+              "int": 6
+            },
+            {
+              "w": "off.",
+              "in": 8049,
+              "out": 8075,
+              "int": 6
+            },
+            {
+              "w": "I've",
+              "in": 8076,
+              "out": 8108,
+              "int": 6
+            },
+            {
+              "w": "already",
+              "in": 8109,
+              "out": 8125,
+              "int": 6
+            },
+            {
+              "w": "got",
+              "in": 8126,
+              "out": 8132,
+              "int": 6
+            },
+            {
+              "w": "Ian",
+              "in": 8133,
+              "out": 8152,
+              "int": 6
+            },
+            {
+              "w": "Malcolm,",
+              "in": 8153,
+              "out": 8191,
+              "int": 6
+            },
+            {
+              "w": "but",
+              "in": 8192,
+              "out": 8200,
+              "int": 6
+            },
+            {
+              "w": "they",
+              "in": 8201,
+              "out": 8210,
+              "int": 6
+            },
+            {
+              "w": "think",
+              "in": 8211,
+              "out": 8222,
+              "int": 6
+            },
+            {
+              "w": "he's",
+              "in": 8223,
+              "out": 8232,
+              "int": 6
+            },
+            {
+              "w": "too",
+              "in": 8233,
+              "out": 8246,
+              "int": 6
+            },
+            {
+              "w": "trendy.",
+              "in": 8247,
+              "out": 8288,
+              "int": 6
+            },
+            {
+              "w": "They",
+              "in": 8289,
+              "out": 8316,
+              "int": 6
+            },
+            {
+              "w": "want",
+              "in": 8317,
+              "out": 8330,
+              "int": 6
+            },
+            {
+              "w": "Alan",
+              "in": 8331,
+              "out": 8349,
+              "int": 6
+            },
+            {
+              "w": "Grant.",
+              "in": 8350,
+              "out": 8380,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 8381,
+        "out": 8418,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side04",
+          "txt": "Grant?",
+          "wds": [
+            {
+              "w": "Grant?",
+              "in": 8381,
+              "out": 8418,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 8419,
+        "out": 8483,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side04",
+          "txt": "You'll never get him out of Montana.",
+          "wds": [
+            {
+              "w": "You'll",
+              "in": 8419,
+              "out": 8450,
+              "int": 5
+            },
+            {
+              "w": "never",
+              "in": 8451,
+              "out": 8464,
+              "int": 5
+            },
+            {
+              "w": "get",
+              "in": 8465,
+              "out": 8475,
+              "int": 5
+            },
+            {
+              "w": "him",
+              "in": 8476,
+              "out": 8483,
+              "int": 5
+            },
+            {
+              "w": "out",
+              "in": 8484,
+              "out": 8515,
+              "int": 5
+            },
+            {
+              "w": "of",
+              "in": 8516,
+              "out": 8521,
+              "int": 5
+            },
+            {
+              "w": "Montana.",
+              "in": 8522,
+              "out": 8570,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 8571,
+        "out": 8601,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side04",
+          "txt": "Luz.",
+          "wds": [
+            {
+              "w": "Luz.",
+              "in": 8571,
+              "out": 8601,
+              "int": 4
+            }
+          ]
+        }
+      },
+      {
+        "in": 8602,
+        "out": 8651,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side03",
+          "txt": "Why not?",
+          "wds": [
+            {
+              "w": "Why",
+              "in": 8602,
+              "out": 8629,
+              "int": 6
+            },
+            {
+              "w": "not?",
+              "in": 8630,
+              "out": 8651,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 8652,
+        "out": 8700,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side04",
+          "txt": "Más luz.",
+          "wds": [
+            {
+              "w": "Más",
+              "in": 8652,
+              "out": 8677,
+              "int": 4
+            },
+            {
+              "w": "luz.",
+              "in": 8678,
+              "out": 8700,
+              "int": 4
+            }
+          ]
+        }
+      },
+      {
+        "in": 8701,
+        "out": 8988,
+        "sfx": {
+          "txt": "[Juanito Speaking Spanish]",
+          "wds": [
+            {
+              "w": "[Juanito",
+              "in": 8701,
+              "out": 8800,
+              "int": 5
+            },
+            {
+              "w": "Speaking",
+              "in": 8801,
+              "out": 8890,
+              "int": 5
+            },
+            {
+              "w": "Spanish]",
+              "in": 8891,
+              "out": 8988,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 8989,
+        "out": 9034,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side03",
+          "txt": "Why not?",
+          "wds": [
+            {
+              "w": "Why",
+              "in": 8989,
+              "out": 9006,
+              "int": 6
+            },
+            {
+              "w": "not?",
+              "in": 9007,
+              "out": 9034,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 9035,
+        "out": 9205,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side04",
+          "txt": "Because Grant's like me. He's a digger.",
+          "wds": [
+            {
+              "w": "Because",
+              "in": 9035,
+              "out": 9075,
+              "int": 5
+            },
+            {
+              "w": "Grant's",
+              "in": 9076,
+              "out": 9102,
+              "int": 5
+            },
+            {
+              "w": "like",
+              "in": 9103,
+              "out": 9120,
+              "int": 5
+            },
+            {
+              "w": "me.",
+              "in": 9121,
+              "out": 9150,
+              "int": 5
+            },
+            {
+              "w": "He's",
+              "in": 9151,
+              "out": 9181,
+              "int": 5
+            },
+            {
+              "w": "a",
+              "in": 9182,
+              "out": 9182,
+              "int": 5
+            },
+            {
+              "w": "digger.",
+              "in": 9183,
+              "out": 9205,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 9206,
+        "out": 9895,
+        "sfx": {
+          "txt": "[Juanito Laughs, Speaks Spanish]",
+          "wds": [
+            {
+              "w": "[Juanito",
+              "in": 9206,
+              "out": 9290,
+              "int": 5
+            },
+            {
+              "w": "Laughs,",
+              "in": 9291,
+              "out": 9400,
+              "int": 6
+            },
+            {
+              "w": "Speaks",
+              "in": 9401,
+              "out": 9650,
+              "int": 5
+            },
+            {
+              "w": "Spanish]",
+              "in": 9651,
+              "out": 9895,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 9896,
+        "out": 10533,
+        "mus": {
+          "txt": "[Gentle Orchestral Music]",
+          "wds": [
+            {
+              "w": "[Gentle",
+              "in": 9896,
+              "out": 10100,
+              "int": 4
+            },
+            {
+              "w": "Orchestral",
+              "in": 10101,
+              "out": 10350,
+              "int": 4
+            },
+            {
+              "w": "Music]",
+              "in": 10351,
+              "out": 10533,
+              "int": 4
+            }
+          ]
+        }
+      },
+      {
+        "in": 10534,
+        "out": 10635,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg06",
+          "txt": "Dr. Grant, Dr. Sattler, we're ready to try again.",
+          "wds": [
+            {
+              "w": "Dr.",
+              "in": 10534,
+              "out": 10548,
+              "int": 6
+            },
+            {
+              "w": "Grant,",
+              "in": 10549,
+              "out": 10566,
+              "int": 6
+            },
+            {
+              "w": "Dr.",
+              "in": 10567,
+              "out": 10584,
+              "int": 6
+            },
+            {
+              "w": "Sattler,",
+              "in": 10585,
+              "out": 10611,
+              "int": 6
+            },
+            {
+              "w": "we're",
+              "in": 10612,
+              "out": 10617,
+              "int": 6
+            },
+            {
+              "w": "ready",
+              "in": 10618,
+              "out": 10628,
+              "int": 6
+            },
+            {
+              "w": "to",
+              "in": 10629,
+              "out": 10630,
+              "int": 6
+            },
+            {
+              "w": "try",
+              "in": 10631,
+              "out": 10632,
+              "int": 6
+            },
+            {
+              "w": "again.",
+              "in": 10633,
+              "out": 10635,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 10636,
+        "out": 10780,
+        "dia": {
+          "sid": "#FFB482",
+          "cty": "main01",
+          "txt": "I hate computers.",
+          "wds": [
+            {
+              "w": "I",
+              "in": 10636,
+              "out": 10701,
+              "int": 5
+            },
+            {
+              "w": "hate",
+              "in": 10702,
+              "out": 10724,
+              "int": 5
+            },
+            {
+              "w": "computers.",
+              "in": 10725,
+              "out": 10780,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 10781,
+        "out": 10849,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "The feeling's mutual.",
+          "wds": [
+            {
+              "w": "The",
+              "in": 10781,
+              "out": 10797,
+              "int": 6
+            },
+            {
+              "w": "feeling's",
+              "in": 10798,
+              "out": 10821,
+              "int": 6
+            },
+            {
+              "w": "mutual.",
+              "in": 10822,
+              "out": 10849,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 10850,
+        "out": 11123,
+        "sfx": {
+          "txt": "[Ground Penetrating Radar Shot]",
+          "wds": [
+            {
+              "w": "[Ground",
+              "in": 10850,
+              "out": 10950,
+              "int": 7
+            },
+            {
+              "w": "Penetrating",
+              "in": 10951,
+              "out": 11030,
+              "int": 7
+            },
+            {
+              "w": "Radar",
+              "in": 11031,
+              "out": 11080,
+              "int": 7
+            },
+            {
+              "w": "Shot]",
+              "in": 11081,
+              "out": 11123,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 11124,
+        "out": 11184,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg06",
+          "txt": "You'll get a reading out of that.",
+          "wds": [
+            {
+              "w": "You'll",
+              "in": 11124,
+              "out": 11136,
+              "int": 6
+            },
+            {
+              "w": "get",
+              "in": 11137,
+              "out": 11143,
+              "int": 6
+            },
+            {
+              "w": "a",
+              "in": 11144,
+              "out": 11144,
+              "int": 6
+            },
+            {
+              "w": "reading",
+              "in": 11145,
+              "out": 11166,
+              "int": 6
+            },
+            {
+              "w": "out",
+              "in": 11167,
+              "out": 11174,
+              "int": 6
+            },
+            {
+              "w": "of",
+              "in": 11175,
+              "out": 11176,
+              "int": 6
+            },
+            {
+              "w": "that.",
+              "in": 11177,
+              "out": 11184,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 11185,
+        "out": 11229,
+        "dia": {
+          "sid": "#BDC3C7",
+          "cty": "bg07",
+          "txt": "Did it work?",
+          "wds": [
+            {
+              "w": "Did",
+              "in": 11185,
+              "out": 11201,
+              "int": 5
+            },
+            {
+              "w": "it",
+              "in": 11202,
+              "out": 11207,
+              "int": 5
+            },
+            {
+              "w": "work?",
+              "in": 11208,
+              "out": 11229,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 11230,
+        "out": 11347,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "How long does this take?",
+          "wds": [
+            {
+              "w": "How",
+              "in": 11230,
+              "out": 11261,
+              "int": 6
+            },
+            {
+              "w": "long",
+              "in": 11262,
+              "out": 11283,
+              "int": 6
+            },
+            {
+              "w": "does",
+              "in": 11284,
+              "out": 11301,
+              "int": 6
+            },
+            {
+              "w": "this",
+              "in": 11302,
+              "out": 11321,
+              "int": 6
+            },
+            {
+              "w": "take?",
+              "in": 11322,
+              "out": 11347,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 11348,
+        "out": 11919,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg06",
+          "txt": "Should bring an immediate return. You shoot the radar into the ground, and the bone bounces the image back. Bounces it back...",
+          "wds": [
+            {
+              "w": "Should",
+              "in": 11348,
+              "out": 11384,
+              "int": 6
+            },
+            {
+              "w": "bring",
+              "in": 11385,
+              "out": 11404,
+              "int": 6
+            },
+            {
+              "w": "an",
+              "in": 11405,
+              "out": 11412,
+              "int": 6
+            },
+            {
+              "w": "immediate",
+              "in": 11413,
+              "out": 11446,
+              "int": 6
+            },
+            {
+              "w": "return.",
+              "in": 11447,
+              "out": 11482,
+              "int": 6
+            },
+            {
+              "w": "You",
+              "in": 11483,
+              "out": 11511,
+              "int": 6
+            },
+            {
+              "w": "shoot",
+              "in": 11512,
+              "out": 11534,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 11535,
+              "out": 11541,
+              "int": 6
+            },
+            {
+              "w": "radar",
+              "in": 11542,
+              "out": 11574,
+              "int": 6
+            },
+            {
+              "w": "into",
+              "in": 11575,
+              "out": 11586,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 11587,
+              "out": 11594,
+              "int": 6
+            },
+            {
+              "w": "ground,",
+              "in": 11595,
+              "out": 11638,
+              "int": 6
+            },
+            {
+              "w": "and",
+              "in": 11639,
+              "out": 11648,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 11649,
+              "out": 11655,
+              "int": 6
+            },
+            {
+              "w": "bone",
+              "in": 11656,
+              "out": 11676,
+              "int": 6
+            },
+            {
+              "w": "bounces",
+              "in": 11677,
+              "out": 11715,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 11716,
+              "out": 11722,
+              "int": 6
+            },
+            {
+              "w": "image",
+              "in": 11723,
+              "out": 11748,
+              "int": 6
+            },
+            {
+              "w": "back.",
+              "in": 11749,
+              "out": 11785,
+              "int": 6
+            },
+            {
+              "w": "Bounces",
+              "in": 11786,
+              "out": 11868,
+              "int": 6
+            },
+            {
+              "w": "it",
+              "in": 11869,
+              "out": 11883,
+              "int": 6
+            },
+            {
+              "w": "back...",
+              "in": 11884,
+              "out": 11919,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 11920,
+        "out": 12017,
+        "sfx": {
+          "txt": "[Computer Beeping]",
+          "wds": [
+            {
+              "w": "[Computer",
+              "in": 11920,
+              "out": 11968,
+              "int": 4
+            },
+            {
+              "w": "Beeping]",
+              "in": 11969,
+              "out": 12017,
+              "int": 4
+            }
+          ]
+        }
+      },
+      {
+        "in": 12018,
+        "out": 12356,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg06",
+          "txt": "This new program is incredible. A few more years' development, and we won't even have to dig any more.",
+          "wds": [
+            {
+              "w": "This",
+              "in": 12018,
+              "out": 12051,
+              "int": 6
+            },
+            {
+              "w": "new",
+              "in": 12052,
+              "out": 12061,
+              "int": 6
+            },
+            {
+              "w": "program",
+              "in": 12062,
+              "out": 12085,
+              "int": 6
+            },
+            {
+              "w": "is",
+              "in": 12086,
+              "out": 12097,
+              "int": 6
+            },
+            {
+              "w": "incredible.",
+              "in": 12098,
+              "out": 12154,
+              "int": 6
+            },
+            {
+              "w": "A",
+              "in": 12155,
+              "out": 12185,
+              "int": 6
+            },
+            {
+              "w": "few",
+              "in": 12186,
+              "out": 12197,
+              "int": 6
+            },
+            {
+              "w": "more",
+              "in": 12198,
+              "out": 12212,
+              "int": 6
+            },
+            {
+              "w": "years'",
+              "in": 12213,
+              "out": 12228,
+              "int": 6
+            },
+            {
+              "w": "development,",
+              "in": 12229,
+              "out": 12271,
+              "int": 6
+            },
+            {
+              "w": "and",
+              "in": 12272,
+              "out": 12280,
+              "int": 6
+            },
+            {
+              "w": "we",
+              "in": 12281,
+              "out": 12289,
+              "int": 6
+            },
+            {
+              "w": "won't",
+              "in": 12290,
+              "out": 12302,
+              "int": 6
+            },
+            {
+              "w": "even",
+              "in": 12303,
+              "out": 12318,
+              "int": 6
+            },
+            {
+              "w": "have",
+              "in": 12319,
+              "out": 12328,
+              "int": 6
+            },
+            {
+              "w": "to",
+              "in": 12329,
+              "out": 12335,
+              "int": 6
+            },
+            {
+              "w": "dig",
+              "in": 12336,
+              "out": 12342,
+              "int": 6
+            },
+            {
+              "w": "any",
+              "in": 12343,
+              "out": 12350,
+              "int": 6
+            },
+            {
+              "w": "more.",
+              "in": 12351,
+              "out": 12356,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 12357,
+        "out": 12415,
+        "dia": {
+          "sid": "#FFB482",
+          "cty": "main01",
+          "txt": "Where's the fun in that?",
+          "wds": [
+            {
+              "w": "Where's",
+              "in": 12357,
+              "out": 12373,
+              "int": 5
+            },
+            {
+              "w": "the",
+              "in": 12374,
+              "out": 12380,
+              "int": 5
+            },
+            {
+              "w": "fun",
+              "in": 12381,
+              "out": 12393,
+              "int": 5
+            },
+            {
+              "w": "in",
+              "in": 12394,
+              "out": 12403,
+              "int": 5
+            },
+            {
+              "w": "that?",
+              "in": 12404,
+              "out": 12415,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 12416,
+        "out": 12577,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg06",
+          "txt": "It's a little distorted, but I don't think it's the computer.",
+          "wds": [
+            {
+              "w": "It's",
+              "in": 12416,
+              "out": 12473,
+              "int": 6
+            },
+            {
+              "w": "a",
+              "in": 12474,
+              "out": 12477,
+              "int": 6
+            },
+            {
+              "w": "little",
+              "in": 12478,
+              "out": 12492,
+              "int": 6
+            },
+            {
+              "w": "distorted,",
+              "in": 12493,
+              "out": 12523,
+              "int": 6
+            },
+            {
+              "w": "but",
+              "in": 12524,
+              "out": 12528,
+              "int": 6
+            },
+            {
+              "w": "I",
+              "in": 12529,
+              "out": 12534,
+              "int": 6
+            },
+            {
+              "w": "don't",
+              "in": 12535,
+              "out": 12543,
+              "int": 6
+            },
+            {
+              "w": "think",
+              "in": 12544,
+              "out": 12553,
+              "int": 6
+            },
+            {
+              "w": "it's",
+              "in": 12554,
+              "out": 12560,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 12561,
+              "out": 12564,
+              "int": 6
+            },
+            {
+              "w": "computer.",
+              "in": 12565,
+              "out": 12577,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 12578,
+        "out": 12871,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "Look. Post-mortem contraction of the posterior neck ligaments. Velociraptor?",
+          "wds": [
+            {
+              "w": "Look.",
+              "in": 12578,
+              "out": 12624,
+              "int": 6
+            },
+            {
+              "w": "Post-mortem",
+              "in": 12625,
+              "out": 12703,
+              "int": 6
+            },
+            {
+              "w": "contraction",
+              "in": 12704,
+              "out": 12744,
+              "int": 6
+            },
+            {
+              "w": "of",
+              "in": 12745,
+              "out": 12748,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 12749,
+              "out": 12756,
+              "int": 6
+            },
+            {
+              "w": "posterior",
+              "in": 12757,
+              "out": 12802,
+              "int": 6
+            },
+            {
+              "w": "neck",
+              "in": 12803,
+              "out": 12817,
+              "int": 6
+            },
+            {
+              "w": "ligaments.",
+              "in": 12818,
+              "out": 12871,
+              "int": 6
+            },
+            {
+              "w": "Velociraptor?",
+              "in": 12872,
+              "out": 12912,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 12913,
+        "out": 13128,
+        "dia": {
+          "sid": "#FFB482",
+          "cty": "main01",
+          "txt": "Yes. Good shape, too. It's five, six feet high. I'm guessing nine feet long.",
+          "wds": [
+            {
+              "w": "Yes.",
+              "in": 12913,
+              "out": 12949,
+              "int": 6
+            },
+            {
+              "w": "Good",
+              "in": 12950,
+              "out": 12974,
+              "int": 6
+            },
+            {
+              "w": "shape,",
+              "in": 12975,
+              "out": 12999,
+              "int": 6
+            },
+            {
+              "w": "too.",
+              "in": 13000,
+              "out": 13012,
+              "int": 6
+            },
+            {
+              "w": "It's",
+              "in": 13013,
+              "out": 13048,
+              "int": 6
+            },
+            {
+              "w": "five,",
+              "in": 13049,
+              "out": 13070,
+              "int": 6
+            },
+            {
+              "w": "six",
+              "in": 13071,
+              "out": 13087,
+              "int": 6
+            },
+            {
+              "w": "feet",
+              "in": 13088,
+              "out": 13099,
+              "int": 6
+            },
+            {
+              "w": "high.",
+              "in": 13100,
+              "out": 13128,
+              "int": 6
+            },
+            {
+              "w": "I'm",
+              "in": 13129,
+              "out": 13169,
+              "int": 6
+            },
+            {
+              "w": "guessing",
+              "in": 13170,
+              "out": 13197,
+              "int": 6
+            },
+            {
+              "w": "nine",
+              "in": 13198,
+              "out": 13211,
+              "int": 6
+            },
+            {
+              "w": "feet",
+              "in": 13212,
+              "out": 13228,
+              "int": 6
+            },
+            {
+              "w": "long.",
+              "in": 13229,
+              "out": 13248,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 13249,
+        "out": 13310,
+        "dia": {
+          "sid": "#FFB482",
+          "cty": "main01",
+          "txt": "Look...",
+          "wds": [
+            {
+              "w": "Look...",
+              "in": 13249,
+              "out": 13310,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 13311,
+        "out": 13359,
+        "sfx": {
+          "txt": "[Computer Beeping]",
+          "wds": [
+            {
+              "w": "[Computer",
+              "in": 13311,
+              "out": 13335,
+              "int": 4
+            },
+            {
+              "w": "Beeping]",
+              "in": 13336,
+              "out": 13359,
+              "int": 4
+            }
+          ]
+        }
+      },
+      {
+        "in": 13360,
+        "out": 13405,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg06",
+          "txt": "What'd you do?",
+          "wds": [
+            {
+              "w": "What'd",
+              "in": 13360,
+              "out": 13377,
+              "int": 5
+            },
+            {
+              "w": "you",
+              "in": 13378,
+              "out": 13384,
+              "int": 5
+            },
+            {
+              "w": "do?",
+              "in": 13385,
+              "out": 13405,
+              "int": 5
+            }
+          ]
+        }
+      },
+      {
+        "in": 13406,
+        "out": 13711,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "He touched it. Dr. Grant's not machine-compatible.",
+          "wds": [
+            {
+              "w": "He",
+              "in": 13406,
+              "out": 13475,
+              "int": 6
+            },
+            {
+              "w": "touched",
+              "in": 13476,
+              "out": 13494,
+              "int": 6
+            },
+            {
+              "w": "it.",
+              "in": 13495,
+              "out": 13508,
+              "int": 6
+            },
+            {
+              "w": "Dr.",
+              "in": 13509,
+              "out": 13589,
+              "int": 6
+            },
+            {
+              "w": "Grant's",
+              "in": 13590,
+              "out": 13612,
+              "int": 6
+            },
+            {
+              "w": "not",
+              "in": 13613,
+              "out": 13624,
+              "int": 6
+            },
+            {
+              "w": "machine-compatible.",
+              "in": 13625,
+              "out": 13711,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 13712,
+        "out": 13947,
+        "dia": {
+          "sid": "#FFB482",
+          "cty": "main01",
+          "txt": "Hell, they've got it in for me. And look at the half-moon shaped bones in the wrists.",
+          "wds": [
+            {
+              "w": "Hell,",
+              "in": 13712,
+              "out": 13750,
+              "int": 5
+            },
+            {
+              "w": "they've",
+              "in": 13751,
+              "out": 13763,
+              "int": 5
+            },
+            {
+              "w": "got",
+              "in": 13764,
+              "out": 13774,
+              "int": 5
+            },
+            {
+              "w": "it",
+              "in": 13775,
+              "out": 13781,
+              "int": 5
+            },
+            {
+              "w": "in",
+              "in": 13782,
+              "out": 13796,
+              "int": 5
+            },
+            {
+              "w": "for",
+              "in": 13797,
+              "out": 13807,
+              "int": 5
+            },
+            {
+              "w": "me.",
+              "in": 13808,
+              "out": 13813,
+              "int": 5
+            },
+            {
+              "w": "And",
+              "in": 13814,
+              "out": 13871,
+              "int": 6
+            },
+            {
+              "w": "look",
+              "in": 13872,
+              "out": 13881,
+              "int": 6
+            },
+            {
+              "w": "at",
+              "in": 13882,
+              "out": 13887,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 13888,
+              "out": 13895,
+              "int": 6
+            },
+            {
+              "w": "half-moon",
+              "in": 13896,
+              "out": 13947,
+              "int": 6
+            },
+            {
+              "w": "shaped",
+              "in": 13948,
+              "out": 13971,
+              "int": 6
+            },
+            {
+              "w": "bones",
+              "in": 13972,
+              "out": 14000,
+              "int": 6
+            },
+            {
+              "w": "in",
+              "in": 14001,
+              "out": 14007,
+              "int": 6
+            },
+            {
+              "w": "the",
+              "in": 14008,
+              "out": 14012,
+              "int": 6
+            },
+            {
+              "w": "wrists.",
+              "in": 14013,
+              "out": 14040,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 14041,
+        "out": 14268,
+        "dia": {
+          "sid": "#FFB482",
+          "cty": "main01",
+          "txt": "It's no wonder these guys learned how to fly.",
+          "wds": [
+            {
+              "w": "It's",
+              "in": 14041,
+              "out": 14080,
+              "int": 6
+            },
+            {
+              "w": "no",
+              "in": 14081,
+              "out": 14090,
+              "int": 6
+            },
+            {
+              "w": "wonder",
+              "in": 14091,
+              "out": 14112,
+              "int": 6
+            },
+            {
+              "w": "these",
+              "in": 14113,
+              "out": 14126,
+              "int": 6
+            },
+            {
+              "w": "guys",
+              "in": 14127,
+              "out": 14156,
+              "int": 6
+            },
+            {
+              "w": "learned",
+              "in": 14157,
+              "out": 14178,
+              "int": 6
+            },
+            {
+              "w": "how",
+              "in": 14179,
+              "out": 14191,
+              "int": 6
+            },
+            {
+              "w": "to",
+              "in": 14192,
+              "out": 14215,
+              "int": 6
+            },
+            {
+              "w": "fly.",
+              "in": 14216,
+              "out": 14268,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 14269,
+        "out": 14335,
+        "sfx": {
+          "txt": "[Laughter]",
+          "wds": [
+            {
+              "w": "[Laughter]",
+              "in": 14269,
+              "out": 14335,
+              "int": 5
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
