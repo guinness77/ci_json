@@ -1,0 +1,1241 @@
+{
+  "tr": {
+    "meta": {
+      "fps": 23.976,
+      "lang": "en",
+      "qual": "High",
+      "char_colors": {
+        "#E51717": "Robert Muldoon",
+        "#A0A0A0": "Jophery",
+        "#B0B0B0": "Worker 1",
+        "#C0C0C0": "Worker 2 (Spanish)",
+        "#D0D0D0": "Worker 3 (Spanish)",
+        "#E0E0E0": "Worker 4 (Spanish)",
+        "#F5F5F5": "UNKNOWN/BACKGROUND VOICE"
+      }
+    },
+    "subs": [
+      {
+        "in": 2,
+        "out": 61,
+        "sfx": {
+          "txt": "[Water Splashes]",
+          "wds": [
+            {
+              "w": "[Water",
+              "in": 2,
+              "out": 31,
+              "int": 6
+            },
+            {
+              "w": "Splashes]",
+              "in": 32,
+              "out": 61,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 61,
+        "out": 101,
+        "mus": {
+          "txt": "[Dramatic Music]",
+          "wds": [
+            {
+              "w": "[Dramatic",
+              "in": 61,
+              "out": 80,
+              "int": 7
+            },
+            {
+              "w": "Music]",
+              "in": 81,
+              "out": 101,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 101,
+        "out": 606,
+        "sfx": {
+          "txt": "[Airplane Whirring]",
+          "wds": [
+            {
+              "w": "[Airplane",
+              "in": 101,
+              "out": 353,
+              "int": 6
+            },
+            {
+              "w": "Whirring]",
+              "in": 354,
+              "out": 606,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 719,
+        "out": 2055,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Everybody,",
+          "wds": [
+            {
+              "w": "Everybody,",
+              "in": 719,
+              "out": 2055,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 2056,
+        "out": 2097,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "hands up. Hands, keep it there.",
+          "wds": [
+            {
+              "w": "hands",
+              "in": 2056,
+              "out": 2061,
+              "int": 8
+            },
+            {
+              "w": "up.",
+              "in": 2062,
+              "out": 2068,
+              "int": 8
+            },
+            {
+              "w": "Hands,",
+              "in": 2069,
+              "out": 2075,
+              "int": 8
+            },
+            {
+              "w": "keep",
+              "in": 2076,
+              "out": 2083,
+              "int": 7
+            },
+            {
+              "w": "it",
+              "in": 2084,
+              "out": 2087,
+              "int": 7
+            },
+            {
+              "w": "there.",
+              "in": 2088,
+              "out": 2097,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 2118,
+        "out": 2144,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Keep it clear.",
+          "wds": [
+            {
+              "w": "Keep",
+              "in": 2118,
+              "out": 2122,
+              "int": 8
+            },
+            {
+              "w": "it",
+              "in": 2123,
+              "out": 2125,
+              "int": 7
+            },
+            {
+              "w": "clear.",
+              "in": 2126,
+              "out": 2144,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 2181,
+        "out": 2246,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Stay back.",
+          "wds": [
+            {
+              "w": "Stay",
+              "in": 2181,
+              "out": 2206,
+              "int": 7
+            },
+            {
+              "w": "back.",
+              "in": 2207,
+              "out": 2246,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 2246,
+        "out": 2307,
+        "sfx": {
+          "txt": "[Worker Speaks Spanish]",
+          "wds": [
+            {
+              "w": "[Worker",
+              "in": 2246,
+              "out": 2276,
+              "int": 6
+            },
+            {
+              "w": "Speaks",
+              "in": 2277,
+              "out": 2291,
+              "int": 6
+            },
+            {
+              "w": "Spanish]",
+              "in": 2292,
+              "out": 2307,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 2307,
+        "out": 2352,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Come on.",
+          "wds": [
+            {
+              "w": "Come",
+              "in": 2307,
+              "out": 2344,
+              "int": 7
+            },
+            {
+              "w": "on.",
+              "in": 2345,
+              "out": 2352,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 2352,
+        "out": 2473,
+        "sfx": {
+          "txt": "[Worker Speaks Spanish]",
+          "wds": [
+            {
+              "w": "[Worker",
+              "in": 2352,
+              "out": 2412,
+              "int": 6
+            },
+            {
+              "w": "Speaks",
+              "in": 2413,
+              "out": 2442,
+              "int": 6
+            },
+            {
+              "w": "Spanish]",
+              "in": 2443,
+              "out": 2473,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 2473,
+        "out": 2478,
+        "dia": {
+          "sid": "#A0A0A0",
+          "cty": "side02",
+          "txt": "That's good.",
+          "wds": [
+            {
+              "w": "That's",
+              "in": 2473,
+              "out": 2476,
+              "int": 6
+            },
+            {
+              "w": "good.",
+              "in": 2477,
+              "out": 2478,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 2478,
+        "out": 2478,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Yeah.",
+          "wds": [
+            {
+              "w": "Yeah.",
+              "in": 2478,
+              "out": 2478,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 2478,
+        "out": 2502,
+        "dia": {
+          "sid": "#C0C0C0",
+          "cty": "bg02",
+          "txt": "That's good. Yeah.",
+          "wds": [
+            {
+              "w": "That's",
+              "in": 2478,
+              "out": 2478,
+              "int": 6
+            },
+            {
+              "w": "good.",
+              "in": 2479,
+              "out": 2493,
+              "int": 6
+            },
+            {
+              "w": "Yeah.",
+              "in": 2494,
+              "out": 2502,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 2502,
+        "out": 2754,
+        "mus": {
+          "txt": "[Dramatic Music]",
+          "wds": [
+            {
+              "w": "[Dramatic",
+              "in": 2502,
+              "out": 2628,
+              "int": 7
+            },
+            {
+              "w": "Music]",
+              "in": 2629,
+              "out": 2754,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 2787,
+        "out": 2833,
+        "dia": {
+          "sid": "#A0A0A0",
+          "cty": "side02",
+          "txt": "Okay, pushing team, move in there.",
+          "wds": [
+            {
+              "w": "Okay,",
+              "in": 2787,
+              "out": 2795,
+              "int": 7
+            },
+            {
+              "w": "pushing",
+              "in": 2796,
+              "out": 2805,
+              "int": 7
+            },
+            {
+              "w": "team,",
+              "in": 2806,
+              "out": 2814,
+              "int": 7
+            },
+            {
+              "w": "move",
+              "in": 2815,
+              "out": 2821,
+              "int": 7
+            },
+            {
+              "w": "in",
+              "in": 2822,
+              "out": 2825,
+              "int": 7
+            },
+            {
+              "w": "there.",
+              "in": 2826,
+              "out": 2833,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 2833,
+        "out": 2858,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Move it. No.",
+          "wds": [
+            {
+              "w": "Move",
+              "in": 2833,
+              "out": 2837,
+              "int": 8
+            },
+            {
+              "w": "it.",
+              "in": 2838,
+              "out": 2844,
+              "int": 8
+            },
+            {
+              "w": "No.",
+              "in": 2845,
+              "out": 2858,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 2894,
+        "out": 2971,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "I want tasers all full charged. [dinosaur squawks]",
+          "wds": [
+            {
+              "w": "I",
+              "in": 2894,
+              "out": 2895,
+              "int": 7
+            },
+            {
+              "w": "want",
+              "in": 2896,
+              "out": 2901,
+              "int": 7
+            },
+            {
+              "w": "tasers",
+              "in": 2902,
+              "out": 2916,
+              "int": 7
+            },
+            {
+              "w": "all",
+              "in": 2917,
+              "out": 2922,
+              "int": 7
+            },
+            {
+              "w": "full",
+              "in": 2923,
+              "out": 2930,
+              "int": 7
+            },
+            {
+              "w": "charged.",
+              "in": 2931,
+              "out": 2960,
+              "int": 7
+            },
+            {
+              "w": "[dinosaur",
+              "in": 2961,
+              "out": 2966,
+              "int": 9
+            },
+            {
+              "w": "squawks]",
+              "in": 2967,
+              "out": 2971,
+              "int": 9
+            }
+          ]
+        }
+      },
+      {
+        "in": 2971,
+        "out": 2999,
+        "sfx": {
+          "txt": "[Worker Gasps, Dinosaur Growls]",
+          "wds": [
+            {
+              "w": "[Worker",
+              "in": 2971,
+              "out": 2971,
+              "int": 8
+            },
+            {
+              "w": "Gasps,",
+              "in": 2972,
+              "out": 2972,
+              "int": 8
+            },
+            {
+              "w": "Dinosaur",
+              "in": 2973,
+              "out": 2979,
+              "int": 9
+            },
+            {
+              "w": "Growls]",
+              "in": 2980,
+              "out": 2999,
+              "int": 9
+            }
+          ]
+        }
+      },
+      {
+        "in": 3017,
+        "out": 3055,
+        "dia": {
+          "sid": "#A0A0A0",
+          "cty": "side02",
+          "txt": "Get back here.",
+          "wds": [
+            {
+              "w": "Get",
+              "in": 3017,
+              "out": 3020,
+              "int": 8
+            },
+            {
+              "w": "back",
+              "in": 3021,
+              "out": 3047,
+              "int": 8
+            },
+            {
+              "w": "here.",
+              "in": 3048,
+              "out": 3055,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 3056,
+        "out": 3068,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Where is he?",
+          "wds": [
+            {
+              "w": "Where",
+              "in": 3056,
+              "out": 3061,
+              "int": 7
+            },
+            {
+              "w": "is",
+              "in": 3062,
+              "out": 3064,
+              "int": 7
+            },
+            {
+              "w": "he?",
+              "in": 3065,
+              "out": 3068,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 3069,
+        "out": 3083,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Hurt him, move it.",
+          "wds": [
+            {
+              "w": "Hurt",
+              "in": 3069,
+              "out": 3073,
+              "int": 8
+            },
+            {
+              "w": "him,",
+              "in": 3074,
+              "out": 3076,
+              "int": 8
+            },
+            {
+              "w": "move",
+              "in": 3077,
+              "out": 3080,
+              "int": 8
+            },
+            {
+              "w": "it.",
+              "in": 3081,
+              "out": 3083,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 3085,
+        "out": 3109,
+        "dia": {
+          "sid": "#C0C0C0",
+          "cty": "bg02",
+          "txt": "Go get him. Go get him.",
+          "wds": [
+            {
+              "w": "Go",
+              "in": 3085,
+              "out": 3088,
+              "int": 8
+            },
+            {
+              "w": "get",
+              "in": 3089,
+              "out": 3093,
+              "int": 8
+            },
+            {
+              "w": "him.",
+              "in": 3094,
+              "out": 3095,
+              "int": 8
+            },
+            {
+              "w": "Go",
+              "in": 3096,
+              "out": 3097,
+              "int": 8
+            },
+            {
+              "w": "get",
+              "in": 3098,
+              "out": 3104,
+              "int": 8
+            },
+            {
+              "w": "him.",
+              "in": 3105,
+              "out": 3109,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 3110,
+        "out": 3177,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "And push.",
+          "wds": [
+            {
+              "w": "And",
+              "in": 3110,
+              "out": 3148,
+              "int": 8
+            },
+            {
+              "w": "push.",
+              "in": 3149,
+              "out": 3177,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 3177,
+        "out": 3331,
+        "mus": {
+          "txt": "[Dramatic Music]",
+          "wds": [
+            {
+              "w": "[Dramatic",
+              "in": 3177,
+              "out": 3254,
+              "int": 8
+            },
+            {
+              "w": "Music]",
+              "in": 3255,
+              "out": 3331,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 3332,
+        "out": 3350,
+        "dia": {
+          "sid": "#A0A0A0",
+          "cty": "side02",
+          "txt": "Well, they're off.",
+          "wds": [
+            {
+              "w": "Well,",
+              "in": 3332,
+              "out": 3339,
+              "int": 6
+            },
+            {
+              "w": "they're",
+              "in": 3340,
+              "out": 3342,
+              "int": 6
+            },
+            {
+              "w": "off.",
+              "in": 3343,
+              "out": 3350,
+              "int": 6
+            }
+          ]
+        }
+      },
+      {
+        "in": 3351,
+        "out": 3408,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Loading team, step away.",
+          "wds": [
+            {
+              "w": "Loading",
+              "in": 3351,
+              "out": 3362,
+              "int": 7
+            },
+            {
+              "w": "team,",
+              "in": 3363,
+              "out": 3373,
+              "int": 7
+            },
+            {
+              "w": "step",
+              "in": 3374,
+              "out": 3380,
+              "int": 7
+            },
+            {
+              "w": "away.",
+              "in": 3381,
+              "out": 3408,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 3425,
+        "out": 3501,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Gatekeeper.",
+          "wds": [
+            {
+              "w": "Gatekeeper.",
+              "in": 3425,
+              "out": 3501,
+              "int": 7
+            }
+          ]
+        }
+      },
+      {
+        "in": 3501,
+        "out": 3605,
+        "mus": {
+          "txt": "[Dramatic Music]",
+          "wds": [
+            {
+              "w": "[Dramatic",
+              "in": 3501,
+              "out": 3553,
+              "int": 8
+            },
+            {
+              "w": "Music]",
+              "in": 3554,
+              "out": 3605,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 3609,
+        "out": 3658,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Joffrey, raise the gate.",
+          "wds": [
+            {
+              "w": "Joffrey,",
+              "in": 3609,
+              "out": 3631,
+              "int": 8
+            },
+            {
+              "w": "raise",
+              "in": 3632,
+              "out": 3645,
+              "int": 8
+            },
+            {
+              "w": "the",
+              "in": 3646,
+              "out": 3648,
+              "int": 8
+            },
+            {
+              "w": "gate.",
+              "in": 3649,
+              "out": 3658,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 3658,
+        "out": 3811,
+        "mus": {
+          "txt": "[Dramatic Music]",
+          "wds": [
+            {
+              "w": "[Dramatic",
+              "in": 3658,
+              "out": 3734,
+              "int": 9
+            },
+            {
+              "w": "Music]",
+              "in": 3735,
+              "out": 3811,
+              "int": 9
+            }
+          ]
+        }
+      },
+      {
+        "in": 3811,
+        "out": 3873,
+        "sfx": {
+          "txt": "[Worker Screams]",
+          "wds": [
+            {
+              "w": "[Worker",
+              "in": 3811,
+              "out": 3842,
+              "int": 10
+            },
+            {
+              "w": "Screams]",
+              "in": 3843,
+              "out": 3873,
+              "int": 11
+            }
+          ]
+        }
+      },
+      {
+        "in": 3873,
+        "out": 4039,
+        "sfx": {
+          "txt": "[Dinosaur Roars]",
+          "wds": [
+            {
+              "w": "[Dinosaur",
+              "in": 3873,
+              "out": 3956,
+              "int": 10
+            },
+            {
+              "w": "Roars]",
+              "in": 3957,
+              "out": 4039,
+              "int": 11
+            }
+          ]
+        }
+      },
+      {
+        "in": 4088,
+        "out": 4197,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Lock the opening. Don't let it get out. [dinosaur squeals]",
+          "wds": [
+            {
+              "w": "Lock",
+              "in": 4088,
+              "out": 4096,
+              "int": 9
+            },
+            {
+              "w": "the",
+              "in": 4097,
+              "out": 4101,
+              "int": 9
+            },
+            {
+              "w": "opening.",
+              "in": 4102,
+              "out": 4146,
+              "int": 9
+            },
+            {
+              "w": "Don't",
+              "in": 4147,
+              "out": 4151,
+              "int": 9
+            },
+            {
+              "w": "let",
+              "in": 4152,
+              "out": 4152,
+              "int": 9
+            },
+            {
+              "w": "it",
+              "in": 4153,
+              "out": 4156,
+              "int": 9
+            },
+            {
+              "w": "get",
+              "in": 4157,
+              "out": 4164,
+              "int": 9
+            },
+            {
+              "w": "out.",
+              "in": 4165,
+              "out": 4185,
+              "int": 9
+            },
+            {
+              "w": "[dinosaur",
+              "in": 4186,
+              "out": 4191,
+              "int": 10
+            },
+            {
+              "w": "squeals]",
+              "in": 4192,
+              "out": 4197,
+              "int": 10
+            }
+          ]
+        }
+      },
+      {
+        "in": 4197,
+        "out": 4199,
+        "sfx": {
+          "txt": "Ah!",
+          "wds": [
+            {
+              "w": "Ah!",
+              "in": 4197,
+              "out": 4199,
+              "int": 11
+            }
+          ]
+        }
+      },
+      {
+        "in": 4200,
+        "out": 4201,
+        "sfx": {
+          "txt": "Ah!",
+          "wds": [
+            {
+              "w": "Ah!",
+              "in": 4200,
+              "out": 4201,
+              "int": 11
+            }
+          ]
+        }
+      },
+      {
+        "in": 4231,
+        "out": 4232,
+        "sfx": {
+          "txt": "Ah!",
+          "wds": [
+            {
+              "w": "Ah!",
+              "in": 4231,
+              "out": 4232,
+              "int": 11
+            }
+          ]
+        }
+      },
+      {
+        "in": 4362,
+        "out": 4431,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Work her back.",
+          "wds": [
+            {
+              "w": "Work",
+              "in": 4362,
+              "out": 4417,
+              "int": 9
+            },
+            {
+              "w": "her",
+              "in": 4418,
+              "out": 4424,
+              "int": 9
+            },
+            {
+              "w": "back.",
+              "in": 4425,
+              "out": 4431,
+              "int": 9
+            }
+          ]
+        }
+      },
+      {
+        "in": 4431,
+        "out": 4735,
+        "sfx": {
+          "txt": "[Laser Beams Fire]",
+          "wds": [
+            {
+              "w": "[Laser",
+              "in": 4431,
+              "out": 4583,
+              "int": 8
+            },
+            {
+              "w": "Beams",
+              "in": 4584,
+              "out": 4660,
+              "int": 8
+            },
+            {
+              "w": "Fire]",
+              "in": 4661,
+              "out": 4735,
+              "int": 8
+            }
+          ]
+        }
+      },
+      {
+        "in": 4738,
+        "out": 4766,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Shoot her.",
+          "wds": [
+            {
+              "w": "Shoot",
+              "in": 4738,
+              "out": 4752,
+              "int": 10
+            },
+            {
+              "w": "her.",
+              "in": 4753,
+              "out": 4766,
+              "int": 10
+            }
+          ]
+        }
+      },
+      {
+        "in": 4812,
+        "out": 4853,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Shoot her.",
+          "wds": [
+            {
+              "w": "Shoot",
+              "in": 4812,
+              "out": 4835,
+              "int": 10
+            },
+            {
+              "w": "her.",
+              "in": 4836,
+              "out": 4853,
+              "int": 10
+            }
+          ]
+        }
+      },
+      {
+        "in": 4853,
+        "out": 4955,
+        "sfx": {
+          "txt": "[Gun Fires]",
+          "wds": [
+            {
+              "w": "[Gun",
+              "in": 4853,
+              "out": 4904,
+              "int": 9
+            },
+            {
+              "w": "Fires]",
+              "in": 4905,
+              "out": 4955,
+              "int": 9
+            }
+          ]
+        }
+      },
+      {
+        "in": 4955,
+        "out": 5386,
+        "sfx": {
+          "txt": "[Dinosaur Squeals]",
+          "wds": [
+            {
+              "w": "[Dinosaur",
+              "in": 4955,
+              "out": 5170,
+              "int": 10
+            },
+            {
+              "w": "Squeals]",
+              "in": 5171,
+              "out": 5386,
+              "int": 10
+            }
+          ]
+        }
+      },
+      {
+        "in": 5386,
+        "out": 5434,
+        "sfx": {
+          "txt": "[Gun Fires]",
+          "wds": [
+            {
+              "w": "[Gun",
+              "in": 5386,
+              "out": 5410,
+              "int": 9
+            },
+            {
+              "w": "Fires]",
+              "in": 5411,
+              "out": 5434,
+              "int": 9
+            }
+          ]
+        }
+      },
+      {
+        "in": 5434,
+        "out": 5491,
+        "sfx": {
+          "txt": "[Dinosaur Squeals]",
+          "wds": [
+            {
+              "w": "[Dinosaur",
+              "in": 5434,
+              "out": 5462,
+              "int": 10
+            },
+            {
+              "w": "Squeals]",
+              "in": 5463,
+              "out": 5491,
+              "int": 10
+            }
+          ]
+        }
+      },
+      {
+        "in": 5491,
+        "out": 5546,
+        "sfx": {
+          "txt": "[Water Splashes]",
+          "wds": [
+            {
+              "w": "[Water",
+              "in": 5491,
+              "out": 5518,
+              "int": 7
+            },
+            {
+              "w": "Splashes]",
+              "in": 5519,
+              "out": 5546,
+              "int": 7
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
