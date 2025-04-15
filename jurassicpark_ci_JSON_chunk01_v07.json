@@ -1,0 +1,2083 @@
+{
+  "tr": {
+    "meta": {
+      "fps": 23.976,
+      "lang": "en",
+      "qual": "High",
+      "char_colors": {
+        "#B0B0B0": "WORKER 1",
+        "#C0C0C0": "WORKER 2 (Spanish)",
+        "#D0D0D0": "WORKER 3 (Spanish)",
+        "#E0E0E0": "WORKER 4 (Spanish)",
+        "#E51717": "ROBERT MULDOON",
+        "#A0A0A0": "JOPHERY (GATEKEEPER)",
+        "#E85C2E": "DONALD GENNARO",
+        "#EBC247": "JUANITO ROSTAGNO",
+        "#909090": "MINER (Spanish)",
+        "#82B3CF": "ALAN GRANT",
+        "#8CD17D": "ELLIE SATTLER",
+        "#95A5A6": "VOLUNTEER 1 (MAN)",
+        "#BDC3C7": "VOLUNTEER 2 (WOMAN)",
+        "#DAA520": "VOLUNTEER BOY",
+        "#FAD791": "JOHN HAMMOND",
+        "#F5F5F5": "UNKNOWN/BACKGROUND VOICE"
+      }
+    },
+    "subs": [
+      {
+        "in": 2042,
+        "out": 2109,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Everybody, heads up! Keep it clear, now.",
+          "wds": [
+            { "w": "Everybody,", "in": 2042, "out": 2058, "int": 7 },
+            { "w": "heads", "in": 2059, "out": 2065, "int": 7 },
+            { "w": "up!", "in": 2066, "out": 2074, "int": 7 },
+            { "w": "Keep", "in": 2075, "out": 2085, "int": 7 },
+            { "w": "it", "in": 2086, "out": 2090, "int": 7 },
+            { "w": "clear,", "in": 2091, "out": 2100, "int": 7 },
+            { "w": "now.", "in": 2101, "out": 2109, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 2111,
+        "out": 2144,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Keep it clear!",
+          "wds": [
+            { "w": "Keep", "in": 2111, "out": 2120, "int": 8 },
+            { "w": "it", "in": 2121, "out": 2125, "int": 8 },
+            { "w": "clear!", "in": 2126, "out": 2144, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 2174,
+        "out": 2214,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Stand back!",
+          "wds": [
+            { "w": "Stand", "in": 2174, "out": 2195, "int": 8 },
+            { "w": "back!", "in": 2196, "out": 2214, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 2316,
+        "out": 2358,
+        "dia": {
+          "sid": "#B0B0B0",
+          "cty": "bg01",
+          "txt": "Bring it forward, come on!",
+          "wds": [
+            { "w": "Bring", "in": 2316, "out": 2324, "int": 8 },
+            { "w": "it", "in": 2325, "out": 2329, "int": 8 },
+            { "w": "forward,", "in": 2330, "out": 2345, "int": 8 },
+            { "w": "come", "in": 2346, "out": 2350, "int": 8 },
+            { "w": "on!", "in": 2351, "out": 2358, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 2503,
+        "out": 2534,
+        "dia": {
+          "sid": "#C0C0C0",
+          "cty": "bg02",
+          "txt": "Slow it down!",
+          "wds": [
+            { "w": "Slow", "in": 2503, "out": 2515, "int": 7 },
+            { "w": "it", "in": 2516, "out": 2520, "int": 7 },
+            { "w": "down!", "in": 2521, "out": 2534, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 2786,
+        "out": 2842,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Pushing team, move in there. Move in.",
+          "wds": [
+            { "w": "Pushing", "in": 2786, "out": 2805, "int": 7 },
+            { "w": "team,", "in": 2806, "out": 2813, "int": 7 },
+            { "w": "move", "in": 2814, "out": 2820, "int": 7 },
+            { "w": "in", "in": 2821, "out": 2824, "int": 7 },
+            { "w": "there.", "in": 2825, "out": 2832, "int": 7 },
+            { "w": "Move", "in": 2833, "out": 2836, "int": 8 },
+            { "w": "in.", "in": 2837, "out": 2842, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 2871,
+        "out": 2948,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "On your ready. I want Tasers on full charge.",
+          "wds": [
+            { "w": "On", "in": 2871, "out": 2875, "int": 7 },
+            { "w": "your", "in": 2876, "out": 2885, "int": 7 },
+            { "w": "ready.", "in": 2886, "out": 2905, "int": 7 },
+            { "w": "I", "in": 2906, "out": 2907, "int": 8 },
+            { "w": "want", "in": 2908, "out": 2926, "int": 8 },
+            { "w": "Tasers", "in": 2927, "out": 2939, "int": 8 },
+            { "w": "on", "in": 2940, "out": 2941, "int": 8 },
+            { "w": "full", "in": 2942, "out": 2946, "int": 8 },
+            { "w": "charge.", "in": 2947, "out": 2948, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 2980,
+        "out": 3056,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Steady! Go on. Step back in.",
+          "wds": [
+            { "w": "Steady!", "in": 2980, "out": 3000, "int": 8 },
+            { "w": "Go", "in": 3001, "out": 3010, "int": 7 },
+            { "w": "on.", "in": 3011, "out": 3025, "int": 7 },
+            { "w": "Step", "in": 3026, "out": 3035, "int": 7 },
+            { "w": "back", "in": 3036, "out": 3045, "int": 7 },
+            { "w": "in.", "in": 3046, "out": 3056, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 3064,
+        "out": 3102,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Ready. Move it.",
+          "wds": [
+            { "w": "Ready.", "in": 3064, "out": 3080, "int": 7 },
+            { "w": "Move", "in": 3081, "out": 3090, "int": 7 },
+            { "w": "it.", "in": 3091, "out": 3102, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 3134,
+        "out": 3166,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "And push.",
+          "wds": [
+            { "w": "And", "in": 3134, "out": 3155, "int": 7 },
+            { "w": "push.", "in": 3156, "out": 3166, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 3326,
+        "out": 3392,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Locked. Loading team, step away.",
+          "wds": [
+            { "w": "Locked.", "in": 3326, "out": 3340, "int": 7 },
+            { "w": "Loading", "in": 3341, "out": 3361, "int": 7 },
+            { "w": "team,", "in": 3362, "out": 3372, "int": 7 },
+            { "w": "step", "in": 3373, "out": 3380, "int": 7 },
+            { "w": "away.", "in": 3381, "out": 3392, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 3398,
+        "out": 3424,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Move it.",
+          "wds": [
+            { "w": "Move", "in": 3398, "out": 3410, "int": 7 },
+            { "w": "it.", "in": 3411, "out": 3424, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 3606,
+        "out": 3655,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Jophery, raise the gate.",
+          "wds": [
+            { "w": "Jophery,", "in": 3606, "out": 3630, "int": 8 },
+            { "w": "raise", "in": 3631, "out": 3638, "int": 8 },
+            { "w": "the", "in": 3639, "out": 3641, "int": 8 },
+            { "w": "gate.", "in": 3642, "out": 3655, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 4082,
+        "out": 4143,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Block the opening! Don't let her get out!",
+          "wds": [
+            { "w": "Block", "in": 4082, "out": 4094, "int": 9 },
+            { "w": "the", "in": 4095, "out": 4097, "int": 9 },
+            { "w": "opening!", "in": 4098, "out": 4112, "int": 9 },
+            { "w": "Don't", "in": 4113, "out": 4118, "int": 9 },
+            { "w": "let", "in": 4119, "out": 4120, "int": 9 },
+            { "w": "her", "in": 4121, "out": 4123, "int": 9 },
+            { "w": "get", "in": 4124, "out": 4130, "int": 9 },
+            { "w": "out!", "in": 4131, "out": 4143, "int": 9 }
+          ]
+        }
+      },
+      {
+        "in": 4366,
+        "out": 4398,
+        "dia": {
+          "sid": "#F5F5F5",
+          "cty": "bgXX",
+          "txt": "Somebody help him!",
+          "wds": [
+            { "w": "Somebody", "in": 4366, "out": 4380, "int": 9 },
+            { "w": "help", "in": 4381, "out": 4390, "int": 9 },
+            { "w": "him!", "in": 4391, "out": 4398, "int": 9 }
+          ]
+        }
+      },
+      {
+        "in": 4408,
+        "out": 4452,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Work her back!",
+          "wds": [
+            { "w": "Work", "in": 4408, "out": 4427, "int": 9 },
+            { "w": "her", "in": 4428, "out": 4436, "int": 9 },
+            { "w": "back!", "in": 4437, "out": 4452, "int": 9 }
+          ]
+        }
+      },
+      {
+        "in": 4727,
+        "out": 4760,
+        "dia": {
+          "sid": "#E51717",
+          "cty": "side01",
+          "txt": "Shoot her!",
+          "wds": [
+            { "w": "Shoot", "in": 4727, "out": 4749, "int": 10 },
+            { "w": "her!", "in": 4750, "out": 4760, "int": 10 }
+          ]
+        }
+      },
+      {
+        "in": 5684,
+        "out": 5732,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "I heard that Hammond's not even here.",
+          "wds": [
+            { "w": "I", "in": 5684, "out": 5685, "int": 6 },
+            { "w": "heard", "in": 5686, "out": 5695, "int": 6 },
+            { "w": "that", "in": 5696, "out": 5705, "int": 6 },
+            { "w": "Hammond's", "in": 5706, "out": 5715, "int": 6 },
+            { "w": "not", "in": 5716, "out": 5720, "int": 6 },
+            { "w": "even", "in": 5721, "out": 5728, "int": 6 },
+            { "w": "here.", "in": 5729, "out": 5732, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 5734,
+        "out": 5764,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side03",
+          "txt": "He sends his apologies.",
+          "wds": [
+            { "w": "He", "in": 5734, "out": 5740, "int": 6 },
+            { "w": "sends", "in": 5741, "out": 5750, "int": 6 },
+            { "w": "his", "in": 5751, "out": 5755, "int": 6 },
+            { "w": "apologies.", "in": 5756, "out": 5764, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 5766,
+        "out": 5840,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "There's a $20 million lawsuit by the family of that worker",
+          "wds": [
+            { "w": "There's", "in": 5766, "out": 5775, "int": 7 },
+            { "w": "a", "in": 5776, "out": 5778, "int": 7 },
+            { "w": "$20", "in": 5779, "out": 5795, "int": 7 },
+            { "w": "million", "in": 5796, "out": 5805, "int": 7 },
+            { "w": "lawsuit", "in": 5806, "out": 5820, "int": 7 },
+            { "w": "by", "in": 5821, "out": 5825, "int": 7 },
+            { "w": "the", "in": 5826, "out": 5830, "int": 7 },
+            { "w": "family", "in": 5831, "out": 5835, "int": 7 },
+            { "w": "of", "in": 5836, "out": 5837, "int": 7 },
+            { "w": "that", "in": 5838, "out": 5839, "int": 7 },
+            { "w": "worker", "in": 5840, "out": 5840, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 5842,
+        "out": 5904,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "and you're telling me that Hammond can't see me?",
+          "wds": [
+            { "w": "and", "in": 5842, "out": 5845, "int": 7 },
+            { "w": "you're", "in": 5846, "out": 5852, "int": 7 },
+            { "w": "telling", "in": 5853, "out": 5860, "int": 7 },
+            { "w": "me", "in": 5861, "out": 5865, "int": 7 },
+            { "w": "that", "in": 5866, "out": 5870, "int": 7 },
+            { "w": "Hammond", "in": 5871, "out": 5880, "int": 7 },
+            { "w": "can't", "in": 5881, "out": 5885, "int": 7 },
+            { "w": "even", "in": 5886, "out": 5890, "int": 7 },
+            { "w": "be", "in": 5891, "out": 5892, "int": 7 },
+            { "w": "bothered", "in": 5893, "out": 5898, "int": 7 },
+            { "w": "to", "in": 5899, "out": 5900, "int": 7 },
+            { "w": "see", "in": 5901, "out": 5902, "int": 7 },
+            { "w": "me?", "in": 5903, "out": 5904, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 5906,
+        "out": 5981,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side03",
+          "txt": "He had to leave early, his daughter's getting a divorce.",
+          "wds": [
+            { "w": "He", "in": 5906, "out": 5914, "int": 6 },
+            { "w": "had", "in": 5915, "out": 5923, "int": 6 },
+            { "w": "to", "in": 5924, "out": 5925, "int": 6 },
+            { "w": "leave", "in": 5926, "out": 5930, "int": 6 },
+            { "w": "early,", "in": 5931, "out": 5938, "int": 6 },
+            { "w": "his", "in": 5939, "out": 5953, "int": 6 },
+            { "w": "daughter's", "in": 5954, "out": 5961, "int": 6 },
+            { "w": "getting", "in": 5962, "out": 5970, "int": 6 },
+            { "w": "a", "in": 5971, "out": 5972, "int": 6 },
+            { "w": "divorce.", "in": 5973, "out": 5981, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 5983,
+        "out": 6056,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "I understand, but we need to deal with the situation now.",
+          "wds": [
+            { "w": "I", "in": 5983, "out": 5985, "int": 6 },
+            { "w": "understand,", "in": 5986, "out": 5997, "int": 6 },
+            { "w": "but", "in": 5998, "out": 6002, "int": 6 },
+            { "w": "we", "in": 6003, "out": 6005, "int": 6 },
+            { "w": "need", "in": 6006, "out": 6010, "int": 6 },
+            { "w": "to", "in": 6011, "out": 6015, "int": 6 },
+            { "w": "deal", "in": 6016, "out": 6025, "int": 6 },
+            { "w": "with", "in": 6026, "out": 6030, "int": 6 },
+            { "w": "the", "in": 6031, "out": 6032, "int": 6 },
+            { "w": "situation", "in": 6033, "out": 6045, "int": 6 },
+            { "w": "now.", "in": 6046, "out": 6056, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 6058,
+        "out": 6110,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "The insurance company... You okay?",
+          "wds": [
+            { "w": "The", "in": 6058, "out": 6064, "int": 6 },
+            { "w": "insurance", "in": 6065, "out": 6075, "int": 6 },
+            { "w": "company...", "in": 6076, "out": 6085, "int": 6 },
+            { "w": "You", "in": 6086, "out": 6095, "int": 5 },
+            { "w": "okay?", "in": 6096, "out": 6110, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 6171,
+        "out": 6279,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "The underwriters feel that the accident's raised safety questions about the park.",
+          "wds": [
+            { "w": "The", "in": 6171, "out": 6180, "int": 7 },
+            { "w": "underwriters", "in": 6181, "out": 6192, "int": 7 },
+            { "w": "feel", "in": 6193, "out": 6200, "int": 7 },
+            { "w": "that", "in": 6201, "out": 6203, "int": 7 },
+            { "w": "the", "in": 6204, "out": 6205, "int": 7 },
+            { "w": "accident's", "in": 6206, "out": 6215, "int": 7 },
+            { "w": "raised", "in": 6216, "out": 6225, "int": 7 },
+            { "w": "safety", "in": 6226, "out": 6245, "int": 7 },
+            { "w": "questions", "in": 6246, "out": 6255, "int": 7 },
+            { "w": "about", "in": 6256, "out": 6260, "int": 7 },
+            { "w": "the", "in": 6261, "out": 6262, "int": 7 },
+            { "w": "park.", "in": 6263, "out": 6279, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 6292,
+        "out": 6343,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "That makes the investors very anxious.",
+          "wds": [
+            { "w": "That", "in": 6292, "out": 6301, "int": 7 },
+            { "w": "makes", "in": 6302, "out": 6308, "int": 7 },
+            { "w": "the", "in": 6309, "out": 6310, "int": 7 },
+            { "w": "investors", "in": 6311, "out": 6325, "int": 7 },
+            { "w": "very", "in": 6326, "out": 6330, "int": 7 },
+            { "w": "anxious.", "in": 6331, "out": 6343, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 6345,
+        "out": 6431,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "I had to promise to conduct a very thorough, on-site inspection.",
+          "wds": [
+            { "w": "I", "in": 6345, "out": 6356, "int": 6 },
+            { "w": "had", "in": 6357, "out": 6360, "int": 6 },
+            { "w": "to", "in": 6361, "out": 6368, "int": 6 },
+            { "w": "promise", "in": 6369, "out": 6370, "int": 6 },
+            { "w": "to", "in": 6371, "out": 6372, "int": 6 },
+            { "w": "conduct", "in": 6373, "out": 6380, "int": 6 },
+            { "w": "a", "in": 6381, "out": 6382, "int": 6 },
+            { "w": "very", "in": 6383, "out": 6386, "int": 6 },
+            { "w": "thorough,", "in": 6387, "out": 6397, "int": 6 },
+            { "w": "on-site", "in": 6398, "out": 6413, "int": 6 },
+            { "w": "inspection.", "in": 6414, "out": 6431, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 6469,
+        "out": 6533,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side03",
+          "txt": "Hammond hates inspections. They slow everything down.",
+          "wds": [
+            { "w": "Hammond", "in": 6469, "out": 6483, "int": 6 },
+            { "w": "hates", "in": 6484, "out": 6492, "int": 6 },
+            { "w": "inspections.", "in": 6493, "out": 6510, "int": 6 },
+            { "w": "They", "in": 6511, "out": 6514, "int": 5 },
+            { "w": "slow", "in": 6515, "out": 6520, "int": 5 },
+            { "w": "everything", "in": 6521, "out": 6530, "int": 5 },
+            { "w": "down.", "in": 6531, "out": 6533, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 6535,
+        "out": 6576,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "I need to or they'll pull the funding.",
+          "wds": [
+            { "w": "I", "in": 6535, "out": 6540, "int": 7 },
+            { "w": "need", "in": 6541, "out": 6545, "int": 7 },
+            { "w": "to", "in": 6546, "out": 6550, "int": 7 },
+            { "w": "or", "in": 6551, "out": 6555, "int": 7 },
+            { "w": "they'll", "in": 6556, "out": 6560, "int": 7 },
+            { "w": "pull", "in": 6561, "out": 6565, "int": 7 },
+            { "w": "the", "in": 6566, "out": 6570, "int": 7 },
+            { "w": "funding.", "in": 6571, "out": 6576, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 6578,
+        "out": 6623,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "That'll slow him down even more.",
+          "wds": [
+            { "w": "That'll", "in": 6578, "out": 6587, "int": 6 },
+            { "w": "slow", "in": 6588, "out": 6592, "int": 6 },
+            { "w": "him", "in": 6593, "out": 6598, "int": 6 },
+            { "w": "down", "in": 6599, "out": 6604, "int": 6 },
+            { "w": "even", "in": 6605, "out": 6610, "int": 6 },
+            { "w": "more.", "in": 6611, "out": 6623, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 6757,
+        "out": 6789,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side03",
+          "txt": "Watch your head.",
+          "wds": [
+            { "w": "Watch", "in": 6757, "out": 6767, "int": 6 },
+            { "w": "your", "in": 6768, "out": 6770, "int": 6 },
+            { "w": "head.", "in": 6771, "out": 6789, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 6803,
+        "out": 6882,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "If two experts sign off on the island,",
+          "wds": [
+            { "w": "If", "in": 6803, "out": 6811, "int": 6 },
+            { "w": "two", "in": 6812, "out": 6823, "int": 6 },
+            { "w": "experts", "in": 6824, "out": 6836, "int": 6 },
+            { "w": "sign", "in": 6837, "out": 6856, "int": 6 },
+            { "w": "off", "in": 6857, "out": 6860, "int": 6 },
+            { "w": "on", "in": 6861, "out": 6864, "int": 6 },
+            { "w": "the", "in": 6865, "out": 6866, "int": 6 },
+            { "w": "island,", "in": 6867, "out": 6882, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 6884,
+        "out": 6919,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "the insurance guys will back off.",
+          "wds": [
+            { "w": "the", "in": 6884, "out": 6890, "int": 6 },
+            { "w": "insurance", "in": 6891, "out": 6901, "int": 6 },
+            { "w": "guys", "in": 6902, "out": 6907, "int": 6 },
+            { "w": "will", "in": 6908, "out": 6910, "int": 6 },
+            { "w": "back", "in": 6911, "out": 6915, "int": 6 },
+            { "w": "off.", "in": 6916, "out": 6919, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 6931,
+        "out": 7004,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "I've already got Ian Malcolm, but they think he's too trendy.",
+          "wds": [
+            { "w": "I've", "in": 6931, "out": 6935, "int": 6 },
+            { "w": "already", "in": 6936, "out": 6945, "int": 6 },
+            { "w": "got", "in": 6946, "out": 6955, "int": 6 },
+            { "w": "Ian", "in": 6956, "out": 6960, "int": 6 },
+            { "w": "Malcolm,", "in": 6961, "out": 6970, "int": 6 },
+            { "w": "but", "in": 6971, "out": 6972, "int": 6 },
+            { "w": "they", "in": 6973, "out": 6978, "int": 6 },
+            { "w": "think", "in": 6979, "out": 6980, "int": 6 },
+            { "w": "he's", "in": 6981, "out": 6985, "int": 6 },
+            { "w": "too", "in": 6986, "out": 6988, "int": 6 },
+            { "w": "trendy.", "in": 6989, "out": 7004, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 7006,
+        "out": 7044,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "They want Alan Grant. Grant?",
+          "wds": [
+            { "w": "They", "in": 7006, "out": 7011, "int": 6 },
+            { "w": "want", "in": 7012, "out": 7018, "int": 6 },
+            { "w": "Alan", "in": 7019, "out": 7025, "int": 6 },
+            { "w": "Grant.", "in": 7026, "out": 7035, "int": 6 },
+            { "w": "Grant?", "in": 7036, "out": 7044, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 7046,
+        "out": 7100,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side03",
+          "txt": "You'll never get him out of Montana.",
+          "wds": [
+            { "w": "You'll", "in": 7046, "out": 7059, "int": 7 },
+            { "w": "never", "in": 7060, "out": 7066, "int": 7 },
+            { "w": "get", "in": 7067, "out": 7070, "int": 7 },
+            { "w": "him", "in": 7071, "out": 7075, "int": 7 },
+            { "w": "out", "in": 7076, "out": 7080, "int": 7 },
+            { "w": "of", "in": 7081, "out": 7082, "int": 7 },
+            { "w": "Montana.", "in": 7083, "out": 7100, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 7117,
+        "out": 7148,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "Why not?",
+          "wds": [
+            { "w": "Why", "in": 7117, "out": 7138, "int": 6 },
+            { "w": "not?", "in": 7139, "out": 7148, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 7194,
+        "out": 7226,
+        "dia": {
+          "sid": "#E85C2E",
+          "cty": "side02",
+          "txt": "Why not?",
+          "wds": [
+            { "w": "Why", "in": 7194, "out": 7204, "int": 6 },
+            { "w": "not?", "in": 7205, "out": 7226, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 7282,
+        "out": 7330,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side03",
+          "txt": "Because Grant's like me.",
+          "wds": [
+            { "w": "Because", "in": 7282, "out": 7294, "int": 6 },
+            { "w": "Grant's", "in": 7295, "out": 7304, "int": 6 },
+            { "w": "like", "in": 7305, "out": 7311, "int": 6 },
+            { "w": "me.", "in": 7312, "out": 7330, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 7373,
+        "out": 7410,
+        "dia": {
+          "sid": "#EBC247",
+          "cty": "side03",
+          "txt": "He's a digger.",
+          "wds": [
+            { "w": "He's", "in": 7373, "out": 7385, "int": 7 },
+            { "w": "a", "in": 7386, "out": 7388, "int": 7 },
+            { "w": "digger.", "in": 7389, "out": 7410, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 8479,
+        "out": 8548,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg05",
+          "txt": "Dr. Grant, Dr. Sattler, we're ready to try again.",
+          "wds": [
+            { "w": "Dr.", "in": 8479, "out": 8494, "int": 6 },
+            { "w": "Grant,", "in": 8495, "out": 8502, "int": 6 },
+            { "w": "Dr.", "in": 8503, "out": 8508, "int": 6 },
+            { "w": "Sattler,", "in": 8509, "out": 8519, "int": 6 },
+            { "w": "we're", "in": 8520, "out": 8525, "int": 6 },
+            { "w": "ready", "in": 8526, "out": 8531, "int": 6 },
+            { "w": "to", "in": 8532, "out": 8534, "int": 6 },
+            { "w": "try", "in": 8535, "out": 8539, "int": 6 },
+            { "w": "again.", "in": 8540, "out": 8548, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 8579,
+        "out": 8617,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "I hate computers.",
+          "wds": [
+            { "w": "I", "in": 8579, "out": 8586, "int": 5 },
+            { "w": "hate", "in": 8587, "out": 8597, "int": 5 },
+            { "w": "computers.", "in": 8598, "out": 8617, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 8626,
+        "out": 8664,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "The feeling's mutual.",
+          "wds": [
+            { "w": "The", "in": 8626, "out": 8632, "int": 6 },
+            { "w": "feeling's", "in": 8633, "out": 8644, "int": 6 },
+            { "w": "mutual.", "in": 8645, "out": 8664, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 9023,
+        "out": 9052,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg05",
+          "txt": "Take a look.",
+          "wds": [
+            { "w": "Take", "in": 9023, "out": 9035, "int": 6 },
+            { "w": "a", "in": 9036, "out": 9037, "int": 6 },
+            { "w": "look.", "in": 9038, "out": 9052, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 9122,
+        "out": 9151,
+        "dia": {
+          "sid": "#BDC3C7",
+          "cty": "bg06",
+          "txt": "Did it work?",
+          "wds": [
+            { "w": "Did", "in": 9122, "out": 9135, "int": 5 },
+            { "w": "it", "in": 9136, "out": 9145, "int": 5 },
+            { "w": "work?", "in": 9146, "out": 9151, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 9153,
+        "out": 9189,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "How long does this take?",
+          "wds": [
+            { "w": "How", "in": 9153, "out": 9163, "int": 6 },
+            { "w": "long", "in": 9164, "out": 9170, "int": 6 },
+            { "w": "does", "in": 9171, "out": 9174, "int": 6 },
+            { "w": "this", "in": 9175, "out": 9178, "int": 6 },
+            { "w": "take?", "in": 9179, "out": 9189, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 9191,
+        "out": 9227,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg05",
+          "txt": "Should bring an immediate return.",
+          "wds": [
+            { "w": "Should", "in": 9191, "out": 9200, "int": 6 },
+            { "w": "bring", "in": 9201, "out": 9210, "int": 6 },
+            { "w": "an", "in": 9211, "out": 9212, "int": 6 },
+            { "w": "immediate", "in": 9213, "out": 9220, "int": 6 },
+            { "w": "return.", "in": 9221, "out": 9227, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 9229,
+        "out": 9264,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg05",
+          "txt": "You shoot the radar into the ground,",
+          "wds": [
+            { "w": "You", "in": 9229, "out": 9230, "int": 6 },
+            { "w": "shoot", "in": 9231, "out": 9243, "int": 6 },
+            { "w": "the", "in": 9244, "out": 9245, "int": 6 },
+            { "w": "radar", "in": 9246, "out": 9252, "int": 6 },
+            { "w": "into", "in": 9253, "out": 9256, "int": 6 },
+            { "w": "the", "in": 9257, "out": 9258, "int": 6 },
+            { "w": "ground,", "in": 9259, "out": 9264, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 9266,
+        "out": 9327,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg05",
+          "txt": "and the bone bounces the image back.",
+          "wds": [
+            { "w": "and", "in": 9266, "out": 9268, "int": 6 },
+            { "w": "the", "in": 9269, "out": 9270, "int": 6 },
+            { "w": "bone", "in": 9271, "out": 9276, "int": 6 },
+            { "w": "bounces", "in": 9277, "out": 9287, "int": 6 },
+            { "w": "the", "in": 9288, "out": 9291, "int": 6 },
+            { "w": "image", "in": 9292, "out": 9302, "int": 6 },
+            { "w": "back.", "in": 9303, "out": 9327, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 9343,
+        "out": 9379,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg05",
+          "txt": "Bounces it back...",
+          "wds": [
+            { "w": "Bounces", "in": 9343, "out": 9362, "int": 6 },
+            { "w": "it", "in": 9363, "out": 9366, "int": 6 },
+            { "w": "back...", "in": 9367, "out": 9379, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 9429,
+        "out": 9478,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg05",
+          "txt": "This new program is incredible.",
+          "wds": [
+            { "w": "This", "in": 9429, "out": 9433, "int": 7 },
+            { "w": "new", "in": 9434, "out": 9438, "int": 7 },
+            { "w": "program", "in": 9439, "out": 9450, "int": 7 },
+            { "w": "is", "in": 9451, "out": 9452, "int": 7 },
+            { "w": "incredible.", "in": 9453, "out": 9478, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 9491,
+        "out": 9575,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg05",
+          "txt": "A few more years' development, and we won't even have to dig any more.",
+          "wds": [
+            { "w": "A", "in": 9491, "out": 9498, "int": 7 },
+            { "w": "few", "in": 9499, "out": 9503, "int": 7 },
+            { "w": "more", "in": 9504, "out": 9508, "int": 7 },
+            { "w": "years'", "in": 9509, "out": 9515, "int": 7 },
+            { "w": "development,", "in": 9516, "out": 9527, "int": 7 },
+            { "w": "and", "in": 9528, "out": 9530, "int": 7 },
+            { "w": "we", "in": 9531, "out": 9533, "int": 7 },
+            { "w": "won't", "in": 9534, "out": 9537, "int": 7 },
+            { "w": "even", "in": 9538, "out": 9543, "int": 7 },
+            { "w": "have", "in": 9544, "out": 9547, "int": 7 },
+            { "w": "to", "in": 9548, "out": 9551, "int": 7 },
+            { "w": "dig", "in": 9552, "out": 9556, "int": 7 },
+            { "w": "any", "in": 9557, "out": 9560, "int": 7 },
+            { "w": "more.", "in": 9561, "out": 9575, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 9577,
+        "out": 9618,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Where's the fun in that?",
+          "wds": [
+            { "w": "Where's", "in": 9577, "out": 9590, "int": 5 },
+            { "w": "the", "in": 9591, "out": 9592, "int": 5 },
+            { "w": "fun", "in": 9593, "out": 9597, "int": 5 },
+            { "w": "in", "in": 9598, "out": 9601, "int": 5 },
+            { "w": "that?", "in": 9602, "out": 9618, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 9632,
+        "out": 9716,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg05",
+          "txt": "It's a little distorted, but I don't think it's the computer.",
+          "wds": [
+            { "w": "It's", "in": 9632, "out": 9643, "int": 6 },
+            { "w": "a", "in": 9644, "out": 9649, "int": 6 },
+            { "w": "little", "in": 9650, "out": 9656, "int": 6 },
+            { "w": "distorted,", "in": 9657, "out": 9674, "int": 6 },
+            { "w": "but", "in": 9675, "out": 9677, "int": 6 },
+            { "w": "I", "in": 9678, "out": 9680, "int": 6 },
+            { "w": "don't", "in": 9681, "out": 9683, "int": 6 },
+            { "w": "think", "in": 9684, "out": 9686, "int": 6 },
+            { "w": "it's", "in": 9687, "out": 9690, "int": 6 },
+            { "w": "the", "in": 9691, "out": 9692, "int": 6 },
+            { "w": "computer.", "in": 9693, "out": 9716, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 9740,
+        "out": 9817,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "Post-mortem contraction of the posterior neck ligaments.",
+          "wds": [
+            { "w": "Post-mortem", "in": 9740, "out": 9763, "int": 6 },
+            { "w": "contraction", "in": 9764, "out": 9776, "int": 6 },
+            { "w": "of", "in": 9777, "out": 9778, "int": 6 },
+            { "w": "the", "in": 9779, "out": 9781, "int": 6 },
+            { "w": "posterior", "in": 9782, "out": 9796, "int": 6 },
+            { "w": "neck", "in": 9797, "out": 9802, "int": 6 },
+            { "w": "ligaments.", "in": 9803, "out": 9817, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 9827,
+        "out": 9857,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "Velociraptor?",
+          "wds": [
+            { "w": "Velociraptor?", "in": 9827, "out": 9857, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 9859,
+        "out": 9896,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Yes. Good shape, too.",
+          "wds": [
+            { "w": "Yes.", "in": 9859, "out": 9871, "int": 6 },
+            { "w": "Good", "in": 9872, "out": 9879, "int": 6 },
+            { "w": "shape,", "in": 9880, "out": 9888, "int": 6 },
+            { "w": "too.", "in": 9889, "out": 9896, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 9905,
+        "out": 9980,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "It's five, six feet high. I'm guessing nine feet long.",
+          "wds": [
+            { "w": "It's", "in": 9905, "out": 9918, "int": 6 },
+            { "w": "five,", "in": 9919, "out": 9928, "int": 6 },
+            { "w": "six", "in": 9929, "out": 9936, "int": 6 },
+            { "w": "feet", "in": 9937, "out": 9940, "int": 6 },
+            { "w": "high.", "in": 9941, "out": 9944, "int": 6 },
+            { "w": "I'm", "in": 9945, "out": 9947, "int": 6 },
+            { "w": "guessing", "in": 9948, "out": 9955, "int": 6 },
+            { "w": "nine", "in": 9956, "out": 9960, "int": 6 },
+            { "w": "feet", "in": 9961, "out": 9966, "int": 6 },
+            { "w": "long.", "in": 9967, "out": 9980, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 9982,
+        "out": 10014,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Look... What'd you do?",
+          "wds": [
+            { "w": "Look...", "in": 9982, "out": 9998, "int": 6 },
+            { "w": "What'd", "in": 9999, "out": 10003, "int": 6 },
+            { "w": "you", "in": 10004, "out": 10006, "int": 6 },
+            { "w": "do?", "in": 10007, "out": 10014, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 10016,
+        "out": 10048,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "He touched it.",
+          "wds": [
+            { "w": "He", "in": 10016, "out": 10029, "int": 7 },
+            { "w": "touched", "in": 10030, "out": 10036, "int": 7 },
+            { "w": "it.", "in": 10037, "out": 10048, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 10050,
+        "out": 10100,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "Dr. Grant's not machine-compatible.",
+          "wds": [
+            { "w": "Dr.", "in": 10050, "out": 10060, "int": 7 },
+            { "w": "Grant's", "in": 10061, "out": 10070, "int": 7 },
+            { "w": "not", "in": 10071, "out": 10073, "int": 7 },
+            { "w": "machine-compatible.", "in": 10074, "out": 10100, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 10102,
+        "out": 10145,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Hell, they've got it in for me.",
+          "wds": [
+            { "w": "Hell,", "in": 10102, "out": 10108, "int": 5 },
+            { "w": "they've", "in": 10109, "out": 10115, "int": 5 },
+            { "w": "got", "in": 10116, "out": 10120, "int": 5 },
+            { "w": "it", "in": 10121, "out": 10124, "int": 5 },
+            { "w": "in", "in": 10125, "out": 10128, "int": 5 },
+            { "w": "for", "in": 10129, "out": 10133, "int": 5 },
+            { "w": "me.", "in": 10134, "out": 10145, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 10168,
+        "out": 10231,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "And look at the half-moon shaped bones in the wrists.",
+          "wds": [
+            { "w": "And", "in": 10168, "out": 10170, "int": 7 },
+            { "w": "look", "in": 10171, "out": 10175, "int": 7 },
+            { "w": "at", "in": 10176, "out": 10178, "int": 7 },
+            { "w": "the", "in": 10179, "out": 10182, "int": 7 },
+            { "w": "half-moon", "in": 10183, "out": 10195, "int": 7 },
+            { "w": "shaped", "in": 10196, "out": 10202, "int": 7 },
+            { "w": "bones", "in": 10203, "out": 10210, "int": 7 },
+            { "w": "in", "in": 10211, "out": 10212, "int": 7 },
+            { "w": "the", "in": 10213, "out": 10214, "int": 7 },
+            { "w": "wrists.", "in": 10215, "out": 10231, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 10233,
+        "out": 10297,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "It's no wonder these guys learned how to fly.",
+          "wds": [
+            { "w": "It's", "in": 10233, "out": 10240, "int": 7 },
+            { "w": "no", "in": 10241, "out": 10245, "int": 7 },
+            { "w": "wonder", "in": 10246, "out": 10250, "int": 7 },
+            { "w": "these", "in": 10251, "out": 10255, "int": 7 },
+            { "w": "guys", "in": 10256, "out": 10262, "int": 7 },
+            { "w": "learned", "in": 10263, "out": 10270, "int": 7 },
+            { "w": "how", "in": 10271, "out": 10273, "int": 7 },
+            { "w": "to", "in": 10274, "out": 10277, "int": 7 },
+            { "w": "fly.", "in": 10278, "out": 10297, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 10342,
+        "out": 10374,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "No, seriously.",
+          "wds": [
+            { "w": "No,", "in": 10342, "out": 10352, "int": 6 },
+            { "w": "seriously.", "in": 10353, "out": 10374, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 10424,
+        "out": 10540,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Maybe dinosaurs have more in common with present-day birds than with reptiles.",
+          "wds": [
+            { "w": "Maybe", "in": 10424, "out": 10444, "int": 7 },
+            { "w": "dinosaurs", "in": 10445, "out": 10458, "int": 7 },
+            { "w": "have", "in": 10459, "out": 10462, "int": 7 },
+            { "w": "more", "in": 10463, "out": 10468, "int": 7 },
+            { "w": "in", "in": 10469, "out": 10471, "int": 7 },
+            { "w": "common", "in": 10472, "out": 10479, "int": 7 },
+            { "w": "with", "in": 10480, "out": 10483, "int": 7 },
+            { "w": "present-day", "in": 10484, "out": 10496, "int": 7 },
+            { "w": "birds", "in": 10497, "out": 10507, "int": 7 },
+            { "w": "than", "in": 10508, "out": 10511, "int": 7 },
+            { "w": "with", "in": 10512, "out": 10526, "int": 7 },
+            { "w": "reptiles.", "in": 10527, "out": 10540, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 10541,
+        "out": 10618,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Look at the pubic bone, turned backward, just like a bird.",
+          "wds": [
+            { "w": "Look", "in": 10541, "out": 10550, "int": 7 },
+            { "w": "at", "in": 10551, "out": 10552, "int": 7 },
+            { "w": "the", "in": 10553, "out": 10555, "int": 7 },
+            { "w": "pubic", "in": 10556, "out": 10568, "int": 7 },
+            { "w": "bone,", "in": 10569, "out": 10578, "int": 7 },
+            { "w": "turned", "in": 10579, "out": 10589, "int": 7 },
+            { "w": "backward,", "in": 10590, "out": 10598, "int": 7 },
+            { "w": "just", "in": 10599, "out": 10601, "int": 7 },
+            { "w": "like", "in": 10602, "out": 10604, "int": 7 },
+            { "w": "a", "in": 10605, "out": 10605, "int": 7 },
+            { "w": "bird.", "in": 10606, "out": 10618, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 10620,
+        "out": 10717,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Look at the vertebrae, full of air sacs and hollows, like a bird.",
+          "wds": [
+            { "w": "Look", "in": 10620, "out": 10624, "int": 7 },
+            { "w": "at", "in": 10625, "out": 10627, "int": 7 },
+            { "w": "the", "in": 10628, "out": 10631, "int": 7 },
+            { "w": "vertebrae,", "in": 10632, "out": 10654, "int": 7 },
+            { "w": "full", "in": 10655, "out": 10668, "int": 7 },
+            { "w": "of", "in": 10669, "out": 10670, "int": 7 },
+            { "w": "air", "in": 10671, "out": 10678, "int": 7 },
+            { "w": "sacs", "in": 10679, "out": 10686, "int": 7 },
+            { "w": "and", "in": 10687, "out": 10688, "int": 7 },
+            { "w": "hollows,", "in": 10689, "out": 10699, "int": 7 },
+            { "w": "like", "in": 10700, "out": 10704, "int": 7 },
+            { "w": "a", "in": 10705, "out": 10706, "int": 7 },
+            { "w": "bird.", "in": 10707, "out": 10717, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 10721,
+        "out": 10821,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "And even the word \"Raptor\" means \"bird of prey.\"",
+          "wds": [
+            { "w": "And", "in": 10721, "out": 10726, "int": 6 },
+            { "w": "even", "in": 10727, "out": 10731, "int": 6 },
+            { "w": "the", "in": 10732, "out": 10734, "int": 6 },
+            { "w": "word", "in": 10735, "out": 10740, "int": 6 },
+            { "w": "\"Raptor\"", "in": 10741, "out": 10767, "int": 6 },
+            { "w": "means", "in": 10768, "out": 10781, "int": 6 },
+            { "w": "\"bird", "in": 10782, "out": 10801, "int": 6 },
+            { "w": "of", "in": 10802, "out": 10804, "int": 6 },
+            { "w": "prey.\"", "in": 10805, "out": 10821, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 10823,
+        "out": 10866,
+        "dia": {
+          "sid": "#DAA520",
+          "cty": "bg07",
+          "txt": "That doesn't look very scary.",
+          "wds": [
+            { "w": "That", "in": 10823, "out": 10830, "int": 4 },
+            { "w": "doesn't", "in": 10831, "out": 10838, "int": 4 },
+            { "w": "look", "in": 10839, "out": 10843, "int": 4 },
+            { "w": "very", "in": 10844, "out": 10849, "int": 4 },
+            { "w": "scary.", "in": 10850, "out": 10866, "int": 4 }
+          ]
+        }
+      },
+      {
+        "in": 10916,
+        "out": 10969,
+        "dia": {
+          "sid": "#DAA520",
+          "cty": "bg07",
+          "txt": "More like a 6-foot turkey.",
+          "wds": [
+            { "w": "More", "in": 10916, "out": 10925, "int": 4 },
+            { "w": "like", "in": 10926, "out": 10931, "int": 4 },
+            { "w": "a", "in": 10932, "out": 10938, "int": 4 },
+            { "w": "6-foot", "in": 10939, "out": 10952, "int": 4 },
+            { "w": "turkey.", "in": 10953, "out": 10969, "int": 4 }
+          ]
+        }
+      },
+      {
+        "in": 11001,
+        "out": 11028,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "A turkey?",
+          "wds": [
+            { "w": "A", "in": 11001, "out": 11010, "int": 6 },
+            { "w": "turkey?", "in": 11011, "out": 11028, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 11125,
+        "out": 11184,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Imagine yourself in the Cretaceous period.",
+          "wds": [
+            { "w": "Imagine", "in": 11125, "out": 11140, "int": 7 },
+            { "w": "yourself", "in": 11141, "out": 11151, "int": 7 },
+            { "w": "in", "in": 11152, "out": 11155, "int": 7 },
+            { "w": "the", "in": 11156, "out": 11158, "int": 7 },
+            { "w": "Cretaceous", "in": 11159, "out": 11173, "int": 7 },
+            { "w": "period.", "in": 11174, "out": 11184, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 11186,
+        "out": 11198,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "Here we go.",
+          "wds": [
+            { "w": "Here", "in": 11186, "out": 11190, "int": 6 },
+            { "w": "we", "in": 11191, "out": 11192, "int": 6 },
+            { "w": "go.", "in": 11193, "out": 11198, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 11200,
+        "out": 11297,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "You'd get your first look at this 6-foot turkey as you enter a clearing.",
+          "wds": [
+            { "w": "You'd", "in": 11200, "out": 11209, "int": 7 },
+            { "w": "get", "in": 11210, "out": 11217, "int": 7 },
+            { "w": "your", "in": 11218, "out": 11222, "int": 7 },
+            { "w": "first", "in": 11223, "out": 11228, "int": 7 },
+            { "w": "look", "in": 11229, "out": 11234, "int": 7 },
+            { "w": "at", "in": 11235, "out": 11237, "int": 7 },
+            { "w": "this", "in": 11238, "out": 11242, "int": 7 },
+            { "w": "6-foot", "in": 11243, "out": 11256, "int": 7 },
+            { "w": "turkey", "in": 11257, "out": 11265, "int": 7 },
+            { "w": "as", "in": 11266, "out": 11268, "int": 7 },
+            { "w": "you", "in": 11269, "out": 11272, "int": 7 },
+            { "w": "enter", "in": 11273, "out": 11278, "int": 7 },
+            { "w": "a", "in": 11279, "out": 11280, "int": 7 },
+            { "w": "clearing.", "in": 11281, "out": 11297, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 11301,
+        "out": 11380,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "He moves like a bird, lightly bobbing his head.",
+          "wds": [
+            { "w": "He", "in": 11301, "out": 11306, "int": 7 },
+            { "w": "moves", "in": 11307, "out": 11314, "int": 7 },
+            { "w": "like", "in": 11315, "out": 11318, "int": 7 },
+            { "w": "a", "in": 11319, "out": 11320, "int": 7 },
+            { "w": "bird,", "in": 11321, "out": 11331, "int": 7 },
+            { "w": "lightly", "in": 11332, "out": 11348, "int": 7 },
+            { "w": "bobbing", "in": 11349, "out": 11360, "int": 7 },
+            { "w": "his", "in": 11361, "out": 11365, "int": 7 },
+            { "w": "head.", "in": 11366, "out": 11380, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 11382,
+        "out": 11462,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "You keep still because you think maybe his visual acuity is based on movement,",
+          "wds": [
+            { "w": "You", "in": 11382, "out": 11386, "int": 7 },
+            { "w": "keep", "in": 11387, "out": 11392, "int": 7 },
+            { "w": "still", "in": 11393, "out": 11400, "int": 7 },
+            { "w": "because", "in": 11401, "out": 11408, "int": 7 },
+            { "w": "you", "in": 11409, "out": 11411, "int": 7 },
+            { "w": "think", "in": 11412, "out": 11416, "int": 7 },
+            { "w": "maybe", "in": 11417, "out": 11425, "int": 7 },
+            { "w": "his", "in": 11426, "out": 11428, "int": 7 },
+            { "w": "visual", "in": 11429, "out": 11435, "int": 7 },
+            { "w": "acuity", "in": 11436, "out": 11442, "int": 7 },
+            { "w": "is", "in": 11443, "out": 11444, "int": 7 },
+            { "w": "based", "in": 11445, "out": 11449, "int": 7 },
+            { "w": "on", "in": 11450, "out": 11452, "int": 7 },
+            { "w": "movement,", "in": 11453, "out": 11462, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 11464,
+        "out": 11568,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "like T-Rex and he'll lose you if you don't move.",
+          "wds": [
+            { "w": "like", "in": 11464, "out": 11470, "int": 7 },
+            { "w": "T-Rex", "in": 11471, "out": 11480, "int": 7 },
+            { "w": "and", "in": 11481, "out": 11484, "int": 7 },
+            { "w": "he'll", "in": 11485, "out": 11492, "int": 7 },
+            { "w": "lose", "in": 11493, "out": 11502, "int": 7 },
+            { "w": "you", "in": 11503, "out": 11506, "int": 7 },
+            { "w": "if", "in": 11507, "out": 11510, "int": 7 },
+            { "w": "you", "in": 11511, "out": 11513, "int": 7 },
+            { "w": "don't", "in": 11514, "out": 11518, "int": 7 },
+            { "w": "move.", "in": 11519, "out": 11568, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 11570,
+        "out": 11618,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "But no, not Velociraptor.",
+          "wds": [
+            { "w": "But", "in": 11570, "out": 11572, "int": 7 },
+            { "w": "no,", "in": 11573, "out": 11578, "int": 7 },
+            { "w": "not", "in": 11579, "out": 11582, "int": 7 },
+            { "w": "Velociraptor.", "in": 11583, "out": 11618, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 11660,
+        "out": 11777,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "You stare at him and he just stares right back.",
+          "wds": [
+            { "w": "You", "in": 11660, "out": 11665, "int": 7 },
+            { "w": "stare", "in": 11666, "out": 11675, "int": 7 },
+            { "w": "at", "in": 11676, "out": 11678, "int": 7 },
+            { "w": "him", "in": 11679, "out": 11685, "int": 7 },
+            { "w": "and", "in": 11686, "out": 11710, "int": 7 },
+            { "w": "he", "in": 11711, "out": 11715, "int": 7 },
+            { "w": "just", "in": 11716, "out": 11722, "int": 7 },
+            { "w": "stares", "in": 11723, "out": 11735, "int": 7 },
+            { "w": "right", "in": 11736, "out": 11740, "int": 7 },
+            { "w": "back.", "in": 11741, "out": 11777, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 11797,
+        "out": 11870,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "And that's when the attack comes.",
+          "wds": [
+            { "w": "And", "in": 11797, "out": 11804, "int": 7 },
+            { "w": "that's", "in": 11805, "out": 11812, "int": 7 },
+            { "w": "when", "in": 11813, "out": 11816, "int": 7 },
+            { "w": "the", "in": 11817, "out": 11818, "int": 7 },
+            { "w": "attack", "in": 11819, "out": 11830, "int": 7 },
+            { "w": "comes.", "in": 11831, "out": 11870, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 11872,
+        "out": 11990,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Not from the front, but from the side.",
+          "wds": [
+            { "w": "Not", "in": 11872, "out": 11878, "int": 8 },
+            { "w": "from", "in": 11879, "out": 11882, "int": 8 },
+            { "w": "the", "in": 11883, "out": 11885, "int": 8 },
+            { "w": "front,", "in": 11886, "out": 11900, "int": 8 },
+            { "w": "but", "in": 11901, "out": 11928, "int": 8 },
+            { "w": "from", "in": 11929, "out": 11938, "int": 8 },
+            { "w": "the", "in": 11939, "out": 11942, "int": 8 },
+            { "w": "side.", "in": 11943, "out": 11990, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 12022,
+        "out": 12124,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "From the other two Raptors you didn't even know were there.",
+          "wds": [
+            { "w": "From", "in": 12022, "out": 12031, "int": 8 },
+            { "w": "the", "in": 12032, "out": 12034, "int": 8 },
+            { "w": "other", "in": 12035, "out": 12041, "int": 8 },
+            { "w": "two", "in": 12042, "out": 12048, "int": 8 },
+            { "w": "Raptors", "in": 12049, "out": 12070, "int": 8 },
+            { "w": "you", "in": 12071, "out": 12088, "int": 8 },
+            { "w": "didn't", "in": 12089, "out": 12095, "int": 8 },
+            { "w": "even", "in": 12096, "out": 12102, "int": 8 },
+            { "w": "know", "in": 12103, "out": 12108, "int": 8 },
+            { "w": "were", "in": 12109, "out": 12110, "int": 8 },
+            { "w": "there.", "in": 12111, "out": 12124, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 12187,
+        "out": 12242,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Because Velociraptor's a pack hunter.",
+          "wds": [
+            { "w": "Because", "in": 12187, "out": 12194, "int": 7 },
+            { "w": "Velociraptor's", "in": 12195, "out": 12214, "int": 7 },
+            { "w": "a", "in": 12215, "out": 12220, "int": 7 },
+            { "w": "pack", "in": 12221, "out": 12228, "int": 7 },
+            { "w": "hunter.", "in": 12229, "out": 12242, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 12244,
+        "out": 12304,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "He uses coordinated attack patterns",
+          "wds": [
+            { "w": "He", "in": 12244, "out": 12250, "int": 7 },
+            { "w": "uses", "in": 12251, "out": 12268, "int": 7 },
+            { "w": "coordinated", "in": 12269, "out": 12281, "int": 7 },
+            { "w": "attack", "in": 12282, "out": 12290, "int": 7 },
+            { "w": "patterns", "in": 12291, "out": 12304, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 12313,
+        "out": 12358,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "and he is out in force today.",
+          "wds": [
+            { "w": "and", "in": 12313, "out": 12318, "int": 7 },
+            { "w": "he", "in": 12319, "out": 12322, "int": 7 },
+            { "w": "is", "in": 12323, "out": 12326, "int": 7 },
+            { "w": "out", "in": 12327, "out": 12330, "int": 7 },
+            { "w": "in", "in": 12331, "out": 12332, "int": 7 },
+            { "w": "force", "in": 12333, "out": 12338, "int": 7 },
+            { "w": "today.", "in": 12339, "out": 12358, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 12410,
+        "out": 12468,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "And he slashes at you with this,",
+          "wds": [
+            { "w": "And", "in": 12410, "out": 12417, "int": 8 },
+            { "w": "he", "in": 12418, "out": 12420, "int": 8 },
+            { "w": "slashes", "in": 12421, "out": 12430, "int": 8 },
+            { "w": "at", "in": 12431, "out": 12434, "int": 8 },
+            { "w": "you", "in": 12435, "out": 12438, "int": 8 },
+            { "w": "with", "in": 12439, "out": 12442, "int": 8 },
+            { "w": "this,", "in": 12443, "out": 12468, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 12489,
+        "out": 12710,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "a 6-inch retractable claw, like a razor, on the middle toe.",
+          "wds": [
+            { "w": "a", "in": 12489, "out": 12514, "int": 8 },
+            { "w": "6-inch", "in": 12515, "out": 12546, "int": 8 },
+            { "w": "retractable", "in": 12547, "out": 12577, "int": 8 },
+            { "w": "claw,", "in": 12578, "out": 12590, "int": 8 },
+            { "w": "like", "in": 12591, "out": 12596, "int": 8 },
+            { "w": "a", "in": 12597, "out": 12598, "int": 8 },
+            { "w": "razor,", "in": 12599, "out": 12620, "int": 8 },
+            { "w": "on", "in": 12621, "out": 12642, "int": 8 },
+            { "w": "the", "in": 12643, "out": 12644, "int": 8 },
+            { "w": "middle", "in": 12645, "out": 12654, "int": 8 },
+            { "w": "toe.", "in": 12655, "out": 12710, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 12728,
+        "out": 12876,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "He doesn't bother to bite your jugular like a lion. No.",
+          "wds": [
+            { "w": "He", "in": 12728, "out": 12734, "int": 7 },
+            { "w": "doesn't", "in": 12735, "out": 12745, "int": 7 },
+            { "w": "bother", "in": 12746, "out": 12758, "int": 7 },
+            { "w": "to", "in": 12759, "out": 12763, "int": 7 },
+            { "w": "bite", "in": 12764, "out": 12780, "int": 7 },
+            { "w": "your", "in": 12781, "out": 12786, "int": 7 },
+            { "w": "jugular", "in": 12787, "out": 12806, "int": 7 },
+            { "w": "like", "in": 12807, "out": 12813, "int": 7 },
+            { "w": "a", "in": 12814, "out": 12816, "int": 7 },
+            { "w": "lion.", "in": 12817, "out": 12848, "int": 7 },
+            { "w": "No.", "in": 12849, "out": 12876, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 12888,
+        "out": 13008,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "He slashes at you here or here...",
+          "wds": [
+            { "w": "He", "in": 12888, "out": 12896, "int": 8 },
+            { "w": "slashes", "in": 12897, "out": 12920, "int": 8 },
+            { "w": "at", "in": 12921, "out": 12932, "int": 8 },
+            { "w": "you", "in": 12933, "out": 12976, "int": 8 },
+            { "w": "here", "in": 12977, "out": 12996, "int": 8 },
+            { "w": "or", "in": 12997, "out": 13000, "int": 8 },
+            { "w": "here...", "in": 13001, "out": 13008, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 13016,
+        "out": 13031,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "Alan.",
+          "wds": [
+            { "w": "Alan.", "in": 13016, "out": 13031, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 13046,
+        "out": 13201,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Or maybe across the belly, spilling your intestines.",
+          "wds": [
+            { "w": "Or", "in": 13046, "out": 13055, "int": 7 },
+            { "w": "maybe", "in": 13056, "out": 13070, "int": 7 },
+            { "w": "across", "in": 13071, "out": 13086, "int": 7 },
+            { "w": "the", "in": 13087, "out": 13090, "int": 7 },
+            { "w": "belly,", "in": 13091, "out": 13112, "int": 7 },
+            { "w": "spilling", "in": 13113, "out": 13134, "int": 7 },
+            { "w": "your", "in": 13135, "out": 13140, "int": 7 },
+            { "w": "intestines.", "in": 13141, "out": 13201, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 13254,
+        "out": 13432,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "The point is, you are alive when they start to eat you.",
+          "wds": [
+            { "w": "The", "in": 13254, "out": 13260, "int": 7 },
+            { "w": "point", "in": 13261, "out": 13272, "int": 7 },
+            { "w": "is,", "in": 13273, "out": 13280, "int": 7 },
+            { "w": "you", "in": 13281, "out": 13338, "int": 7 },
+            { "w": "are", "in": 13339, "out": 13345, "int": 7 },
+            { "w": "alive", "in": 13346, "out": 13372, "int": 7 },
+            { "w": "when", "in": 13373, "out": 13398, "int": 7 },
+            { "w": "they", "in": 13399, "out": 13404, "int": 7 },
+            { "w": "start", "in": 13405, "out": 13414, "int": 7 },
+            { "w": "to", "in": 13415, "out": 13418, "int": 7 },
+            { "w": "eat", "in": 13419, "out": 13424, "int": 7 },
+            { "w": "you.", "in": 13425, "out": 13432, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 13482,
+        "out": 13698,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "So, you know, try to show a little respect.",
+          "wds": [
+            { "w": "So,", "in": 13482, "out": 13512, "int": 7 },
+            { "w": "you", "in": 13513, "out": 13516, "int": 7 },
+            { "w": "know,", "in": 13517, "out": 13530, "int": 7 },
+            { "w": "try", "in": 13531, "out": 13600, "int": 7 },
+            { "w": "to", "in": 13601, "out": 13602, "int": 7 },
+            { "w": "show", "in": 13603, "out": 13612, "int": 7 },
+            { "w": "a", "in": 13613, "out": 13614, "int": 7 },
+            { "w": "little", "in": 13615, "out": 13628, "int": 7 },
+            { "w": "respect.", "in": 13629, "out": 13698, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 13700,
+        "out": 13725,
+        "dia": {
+          "sid": "#DAA520",
+          "cty": "bg07",
+          "txt": "Okay.",
+          "wds": [
+            { "w": "Okay.", "in": 13700, "out": 13725, "int": 4 }
+          ]
+        }
+      },
+      {
+        "in": 13850,
+        "out": 13914,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "Alan, if you wanted to scare the kid,",
+          "wds": [
+            { "w": "Alan,", "in": 13850, "out": 13872, "int": 6 },
+            { "w": "if", "in": 13873, "out": 13878, "int": 6 },
+            { "w": "you", "in": 13879, "out": 13882, "int": 6 },
+            { "w": "wanted", "in": 13883, "out": 13890, "int": 6 },
+            { "w": "to", "in": 13891, "out": 13894, "int": 6 },
+            { "w": "scare", "in": 13895, "out": 13900, "int": 6 },
+            { "w": "the", "in": 13901, "out": 13902, "int": 6 },
+            { "w": "kid,", "in": 13903, "out": 13914, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 13916,
+        "out": 14062,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "you could've pulled a gun on him.",
+          "wds": [
+            { "w": "you", "in": 13916, "out": 13918, "int": 6 },
+            { "w": "could've", "in": 13919, "out": 13928, "int": 6 },
+            { "w": "pulled", "in": 13929, "out": 13934, "int": 6 },
+            { "w": "a", "in": 13935, "out": 13938, "int": 6 },
+            { "w": "gun", "in": 13939, "out": 13946, "int": 6 },
+            { "w": "on", "in": 13947, "out": 13950, "int": 6 },
+            { "w": "him.", "in": 13951, "out": 14062, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 14078,
+        "out": 14156,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Yeah, I know. Kids.",
+          "wds": [
+            { "w": "Yeah,", "in": 14078, "out": 14090, "int": 5 },
+            { "w": "I", "in": 14091, "out": 14092, "int": 5 },
+            { "w": "know.", "in": 14093, "out": 14110, "int": 5 },
+            { "w": "Kids.", "in": 14111, "out": 14156, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 14192,
+        "out": 14284,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "You want to have one of those?",
+          "wds": [
+            { "w": "You", "in": 14192, "out": 14198, "int": 5 },
+            { "w": "want", "in": 14199, "out": 14206, "int": 5 },
+            { "w": "to", "in": 14207, "out": 14212, "int": 5 },
+            { "w": "have", "in": 14213, "out": 14220, "int": 5 },
+            { "w": "one", "in": 14221, "out": 14225, "int": 5 },
+            { "w": "of", "in": 14226, "out": 14228, "int": 5 },
+            { "w": "those?", "in": 14229, "out": 14284, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 14297,
+        "out": 14358,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "I don't want that kid,",
+          "wds": [
+            { "w": "I", "in": 14297, "out": 14300, "int": 6 },
+            { "w": "don't", "in": 14301, "out": 14308, "int": 6 },
+            { "w": "want", "in": 14309, "out": 14315, "int": 6 },
+            { "w": "that", "in": 14316, "out": 14324, "int": 6 },
+            { "w": "kid,", "in": 14325, "out": 14358, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 14360,
+        "out": 14486,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "but a breed of the child could be intriguing.",
+          "wds": [
+            { "w": "but", "in": 14360, "out": 14364, "int": 6 },
+            { "w": "a", "in": 14365, "out": 14368, "int": 6 },
+            { "w": "breed", "in": 14369, "out": 14382, "int": 6 },
+            { "w": "of", "in": 14383, "out": 14386, "int": 6 },
+            { "w": "the", "in": 14387, "out": 14390, "int": 6 },
+            { "w": "child", "in": 14391, "out": 14414, "int": 6 },
+            { "w": "could", "in": 14415, "out": 14424, "int": 6 },
+            { "w": "be", "in": 14425, "out": 14428, "int": 6 },
+            { "w": "intriguing.", "in": 14429, "out": 14486, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 14516,
+        "out": 14594,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "I mean, what's so wrong with kids?",
+          "wds": [
+            { "w": "I", "in": 14516, "out": 14518, "int": 6 },
+            { "w": "mean,", "in": 14519, "out": 14524, "int": 6 },
+            { "w": "what's", "in": 14525, "out": 14530, "int": 6 },
+            { "w": "so", "in": 14531, "out": 14538, "int": 6 },
+            { "w": "wrong", "in": 14539, "out": 14548, "int": 6 },
+            { "w": "with", "in": 14549, "out": 14554, "int": 6 },
+            { "w": "kids?", "in": 14555, "out": 14594, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 14598,
+        "out": 14718,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "They're noisy, they're messy, they're expensive.",
+          "wds": [
+            { "w": "They're", "in": 14598, "out": 14616, "int": 5 },
+            { "w": "noisy,", "in": 14617, "out": 14631, "int": 5 },
+            { "w": "they're", "in": 14632, "out": 14638, "int": 5 },
+            { "w": "messy,", "in": 14639, "out": 14664, "int": 5 },
+            { "w": "they're", "in": 14665, "out": 14674, "int": 5 },
+            { "w": "expensive.", "in": 14675, "out": 14718, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 14720,
+        "out": 14780,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "Cheap, cheap.",
+          "wds": [
+            { "w": "Cheap,", "in": 14720, "out": 14758, "int": 6 },
+            { "w": "cheap.", "in": 14759, "out": 14780, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 14782,
+        "out": 14810,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "They smell.",
+          "wds": [
+            { "w": "They", "in": 14782, "out": 14788, "int": 5 },
+            { "w": "smell.", "in": 14789, "out": 14810, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 14812,
+        "out": 14857,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "They don't smell! Some smell.",
+          "wds": [
+            { "w": "They", "in": 14812, "out": 14818, "int": 6 },
+            { "w": "don't", "in": 14819, "out": 14825, "int": 6 },
+            { "w": "smell!", "in": 14826, "out": 14831, "int": 6 },
+            { "w": "Some", "in": 14832, "out": 14840, "int": 6 },
+            { "w": "smell.", "in": 14841, "out": 14857, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 14859,
+        "out": 14926,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "Give me a break! Babies smell.",
+          "wds": [
+            { "w": "Give", "in": 14859, "out": 14870, "int": 6 },
+            { "w": "me", "in": 14871, "out": 14872, "int": 6 },
+            { "w": "a", "in": 14873, "out": 14874, "int": 6 },
+            { "w": "break!", "in": 14875, "out": 14880, "int": 6 },
+            { "w": "Babies", "in": 14881, "out": 14898, "int": 5 },
+            { "w": "smell.", "in": 14899, "out": 14926, "int": 5 }
+          ]
+        }
+      },
+      {
+        "in": 15116,
+        "out": 15176,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "Cover the site!",
+          "wds": [
+            { "w": "Cover", "in": 15116, "out": 15135, "int": 8 },
+            { "w": "the", "in": 15136, "out": 15144, "int": 8 },
+            { "w": "site!", "in": 15145, "out": 15176, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 15178,
+        "out": 15205,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Cover up the dig!",
+          "wds": [
+            { "w": "Cover", "in": 15178, "out": 15188, "int": 8 },
+            { "w": "up", "in": 15189, "out": 15192, "int": 8 },
+            { "w": "the", "in": 15193, "out": 15195, "int": 8 },
+            { "w": "dig!", "in": 15196, "out": 15205, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 15207,
+        "out": 15243,
+        "dia": {
+          "sid": "#8CD17D",
+          "cty": "main02",
+          "txt": "Tell them to shut down!",
+          "wds": [
+            { "w": "Tell", "in": 15207, "out": 15215, "int": 8 },
+            { "w": "them", "in": 15216, "out": 15220, "int": 8 },
+            { "w": "to", "in": 15221, "out": 15224, "int": 8 },
+            { "w": "shut", "in": 15225, "out": 15230, "int": 8 },
+            { "w": "down!", "in": 15231, "out": 15243, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 15245,
+        "out": 15272,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Cut the machine!",
+          "wds": [
+            { "w": "Cut", "in": 15245, "out": 15252, "int": 8 },
+            { "w": "the", "in": 15253, "out": 15255, "int": 8 },
+            { "w": "machine!", "in": 15256, "out": 15272, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 15284,
+        "out": 15346,
+        "dia": {
+          "sid": "#95A5A6",
+          "cty": "bg05",
+          "txt": "Cover it all up. Pull it over.",
+          "wds": [
+            { "w": "Cover", "in": 15284, "out": 15295, "int": 7 },
+            { "w": "it", "in": 15296, "out": 15298, "int": 7 },
+            { "w": "all", "in": 15299, "out": 15305, "int": 7 },
+            { "w": "up.", "in": 15306, "out": 15312, "int": 7 },
+            { "w": "Pull", "in": 15313, "out": 15320, "int": 7 },
+            { "w": "it", "in": 15321, "out": 15325, "int": 7 },
+            { "w": "over.", "in": 15326, "out": 15346, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 15396,
+        "out": 15477,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Just cut it, will you? Shut it down!",
+          "wds": [
+            { "w": "Just", "in": 15396, "out": 15402, "int": 8 },
+            { "w": "cut", "in": 15403, "out": 15408, "int": 8 },
+            { "w": "it,", "in": 15409, "out": 15412, "int": 8 },
+            { "w": "will", "in": 15413, "out": 15418, "int": 8 },
+            { "w": "you?", "in": 15419, "out": 15425, "int": 8 },
+            { "w": "Shut", "in": 15426, "out": 15430, "int": 8 },
+            { "w": "it", "in": 15431, "out": 15435, "int": 8 },
+            { "w": "down!", "in": 15436, "out": 15477, "int": 8 }
+          ]
+        }
+      },
+      {
+        "in": 15495,
+        "out": 15506,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "What?",
+          "wds": [
+            { "w": "What?", "in": 15495, "out": 15506, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 16117,
+        "out": 16276,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "What the hell do you think you're doing in here?",
+          "wds": [
+            { "w": "What", "in": 16117, "out": 16122, "int": 7 },
+            { "w": "the", "in": 16123, "out": 16125, "int": 7 },
+            { "w": "hell", "in": 16126, "out": 16132, "int": 7 },
+            { "w": "do", "in": 16133, "out": 16138, "int": 7 },
+            { "w": "you", "in": 16139, "out": 16142, "int": 7 },
+            { "w": "think", "in": 16143, "out": 16150, "int": 7 },
+            { "w": "you're", "in": 16151, "out": 16158, "int": 7 },
+            { "w": "doing", "in": 16159, "out": 16168, "int": 7 },
+            { "w": "in", "in": 16169, "out": 16170, "int": 7 },
+            { "w": "here?", "in": 16171, "out": 16276, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 16330,
+        "out": 16404,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "We were saving that.",
+          "wds": [
+            { "w": "We", "in": 16330, "out": 16332, "int": 6 },
+            { "w": "were", "in": 16333, "out": 16338, "int": 6 },
+            { "w": "saving", "in": 16339, "out": 16365, "int": 6 },
+            { "w": "that.", "in": 16366, "out": 16404, "int": 6 }
+          ]
+        }
+      },
+      {
+        "in": 16410,
+        "out": 16523,
+        "dia": {
+          "sid": "#FAD791",
+          "cty": "side04",
+          "txt": "For today, I guarantee it.",
+          "wds": [
+            { "w": "For", "in": 16410, "out": 16418, "int": 7 },
+            { "w": "today,", "in": 16419, "out": 16448, "int": 7 },
+            { "w": "I", "in": 16449, "out": 16452, "int": 7 },
+            { "w": "guarantee", "in": 16453, "out": 16500, "int": 7 },
+            { "w": "it.", "in": 16501, "out": 16523, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 16584,
+        "out": 16725,
+        "dia": {
+          "sid": "#82B3CF",
+          "cty": "main01",
+          "txt": "Who in God's name do you think you are?",
+          "wds": [
+            { "w": "Who", "in": 16584, "out": 16600, "int": 7 },
+            { "w": "in", "in": 16601, "out": 16604, "int": 7 },
+            { "w": "God's", "in": 16605, "out": 16620, "int": 7 },
+            { "w": "name", "in": 16621, "out": 16635, "int": 7 },
+            { "w": "do", "in": 16636, "out": 16640, "int": 7 },
+            { "w": "you", "in": 16641, "out": 16645, "int": 7 },
+            { "w": "think", "in": 16646, "out": 16652, "int": 7 },
+            { "w": "you", "in": 16653, "out": 16658, "int": 7 },
+            { "w": "are?", "in": 16659, "out": 16725, "int": 7 }
+          ]
+        }
+      },
+      {
+        "in": 16727,
+        "out": 16784,
+        "dia": {
+          "sid": "#FAD791",
+          "cty": "side04",
+          "txt": "John Hammond.",
+          "wds": [
+            { "w": "John", "in": 16727, "out": 16750, "int": 7 },
+            { "w": "Hammond.", "in": 16751, "out": 16784, "int": 7 }
+          ]
+        }
+      },
+    ]
+  }
+}
